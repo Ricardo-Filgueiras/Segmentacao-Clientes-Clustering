@@ -1,0 +1,7 @@
+produto_id,nome,categoria,subcategoria,marca,caracteristicas,preco_base
+101,Caneta Gel Pilot G2 Preta,Escrita,Caneta Gel,Pilot,"Ponta 0.7mm, escrita macia, recarregável",15.9
+102,Caneta Gel Uni-ball Signo,Escrita,Caneta Gel,Uni-ball,"Ponta 0.5mm, secagem rápida, azul",14.5
+103,Caneta Esferográfica Bic Cristal,Escrita,Caneta Esferográfica,Bic,"Ponta média, clássica, azul",2.5
+201,Caderno Moleskine Classic,Papelaria,Cadernos,Moleskine,"Capa dura, 192 páginas, pautado",120.0
+202,Caderno Cícero Pontado,Papelaria,Cadernos,Cícero,"Capa flexível, papel pólen, 160 páginas",89.0
+301,Refil Caneta Gel Pilot,Escrita,Refil,Pilot,"Carga para G2, preta",9.0
