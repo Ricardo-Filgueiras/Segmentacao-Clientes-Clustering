@@ -6,9 +6,10 @@ from datetime import datetime, timedelta
 # Configuração para reprodutibilidade
 np.random.seed(42)
 
-# Caminho dos arquivos dependentes
-produtos_path = os.path.join('..', 'df_produtos.csv')
-clientes_path = os.path.join('..', 'df_clientes.csv')
+# Caminho dos arquivos dependentes (relativo ao script)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+produtos_path = os.path.join(script_dir, '..', 'df_produtos.csv')
+clientes_path = os.path.join(script_dir, '..', 'df_clientes.csv')
 
 # Verifica se os arquivos base existem
 if not os.path.exists(produtos_path) or not os.path.exists(clientes_path):
@@ -19,7 +20,7 @@ if not os.path.exists(produtos_path) or not os.path.exists(clientes_path):
 df_produtos = pd.read_csv(produtos_path)
 df_clientes = pd.read_csv(clientes_path)
 
-datas = [datetime(2026, 3, 1) + timedelta(days=x) for x in range(30)]
+datas = [datetime(2026, 3, 1) + timedelta(days=x) for x in range(90)]
 vendas_data = []
 
 for data in datas:
@@ -61,7 +62,7 @@ df_vendas = pd.DataFrame(vendas_data, columns=[
 ])
 
 # Salva na pasta data
-output_path = os.path.join('..', 'df_vendas.csv')
+output_path = os.path.join(script_dir, '..', 'df_vendas.csv')
 df_vendas.to_csv(output_path, index=False)
 
 print(f"✅ Tabela de Vendas e Estoque gerada em: {output_path}")
