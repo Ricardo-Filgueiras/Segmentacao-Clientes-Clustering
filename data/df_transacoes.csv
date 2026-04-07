@@ -1,142 +1,82 @@
-id_transacao,cliente_id,produto_id,nome_produto
-T1000,CUST-1361,101,Caneta Gel Pilot G2 Preta
-T1001,CUST-1453,101,Caneta Gel Pilot G2 Preta
-T1001,CUST-1453,301,Refil Caneta Gel Pilot
-T1002,CUST-1353,101,Caneta Gel Pilot G2 Preta
-T1002,CUST-1353,301,Refil Caneta Gel Pilot
-T1003,CUST-1166,101,Caneta Gel Pilot G2 Preta
-T1003,CUST-1166,301,Refil Caneta Gel Pilot
-T1004,CUST-1086,103,Caneta Esferográfica Bic Cristal
-T1004,CUST-1086,202,Caderno Cícero Pontado
-T1004,CUST-1086,102,Caneta Gel Uni-ball Signo
-T1005,CUST-1406,101,Caneta Gel Pilot G2 Preta
-T1005,CUST-1406,301,Refil Caneta Gel Pilot
-T1006,CUST-1234,101,Caneta Gel Pilot G2 Preta
-T1006,CUST-1234,301,Refil Caneta Gel Pilot
-T1007,CUST-1114,101,Caneta Gel Pilot G2 Preta
-T1007,CUST-1114,301,Refil Caneta Gel Pilot
-T1008,CUST-1344,101,Caneta Gel Pilot G2 Preta
-T1008,CUST-1344,301,Refil Caneta Gel Pilot
-T1009,CUST-1077,101,Caneta Gel Pilot G2 Preta
-T1009,CUST-1077,301,Refil Caneta Gel Pilot
-T1010,CUST-1484,101,Caneta Gel Pilot G2 Preta
-T1010,CUST-1484,301,Refil Caneta Gel Pilot
-T1011,CUST-1301,103,Caneta Esferográfica Bic Cristal
-T1012,CUST-1226,101,Caneta Gel Pilot G2 Preta
-T1012,CUST-1226,301,Refil Caneta Gel Pilot
-T1013,CUST-1161,101,Caneta Gel Pilot G2 Preta
-T1013,CUST-1161,301,Refil Caneta Gel Pilot
-T1014,CUST-1257,101,Caneta Gel Pilot G2 Preta
-T1014,CUST-1257,301,Refil Caneta Gel Pilot
-T1015,CUST-1419,101,Caneta Gel Pilot G2 Preta
-T1015,CUST-1419,102,Caneta Gel Uni-ball Signo
-T1015,CUST-1419,201,Caderno Moleskine Classic
-T1016,CUST-1018,101,Caneta Gel Pilot G2 Preta
-T1016,CUST-1018,301,Refil Caneta Gel Pilot
-T1017,CUST-1201,101,Caneta Gel Pilot G2 Preta
-T1017,CUST-1201,301,Refil Caneta Gel Pilot
-T1018,CUST-1065,202,Caderno Cícero Pontado
-T1018,CUST-1065,301,Refil Caneta Gel Pilot
-T1019,CUST-1282,101,Caneta Gel Pilot G2 Preta
-T1019,CUST-1282,301,Refil Caneta Gel Pilot
+id_transacao,cliente_id,produto_id,nome
+T1001,CUST-1157,101,Caneta Gel Pilot G2 Preta
+T1001,CUST-1157,301,Refil Caneta Gel Pilot
+T1002,CUST-1280,101,Caneta Gel Pilot G2 Preta
+T1002,CUST-1280,301,Refil Caneta Gel Pilot
+T1003,CUST-1150,101,Caneta Gel Pilot G2 Preta
+T1003,CUST-1150,301,Refil Caneta Gel Pilot
+T1004,CUST-1442,101,Caneta Gel Pilot G2 Preta
+T1004,CUST-1442,301,Refil Caneta Gel Pilot
+T1006,CUST-1432,101,Caneta Gel Pilot G2 Preta
+T1006,CUST-1432,301,Refil Caneta Gel Pilot
+T1007,CUST-1424,101,Caneta Gel Pilot G2 Preta
+T1007,CUST-1424,301,Refil Caneta Gel Pilot
+T1009,CUST-1254,101,Caneta Gel Pilot G2 Preta
+T1009,CUST-1254,301,Refil Caneta Gel Pilot
+T1012,CUST-1403,101,Caneta Gel Pilot G2 Preta
+T1012,CUST-1403,301,Refil Caneta Gel Pilot
+T1013,CUST-1366,101,Caneta Gel Pilot G2 Preta
+T1013,CUST-1366,301,Refil Caneta Gel Pilot
+T1015,CUST-1382,101,Caneta Gel Pilot G2 Preta
+T1015,CUST-1382,301,Refil Caneta Gel Pilot
+T1016,CUST-1070,101,Caneta Gel Pilot G2 Preta
+T1016,CUST-1070,301,Refil Caneta Gel Pilot
+T1017,CUST-1200,101,Caneta Gel Pilot G2 Preta
+T1017,CUST-1200,301,Refil Caneta Gel Pilot
+T1019,CUST-1280,101,Caneta Gel Pilot G2 Preta
+T1019,CUST-1280,301,Refil Caneta Gel Pilot
 T1020,CUST-1220,101,Caneta Gel Pilot G2 Preta
 T1020,CUST-1220,301,Refil Caneta Gel Pilot
 T1021,CUST-1374,101,Caneta Gel Pilot G2 Preta
 T1021,CUST-1374,301,Refil Caneta Gel Pilot
-T1022,CUST-1151,301,Refil Caneta Gel Pilot
-T1022,CUST-1151,101,Caneta Gel Pilot G2 Preta
-T1022,CUST-1151,102,Caneta Gel Uni-ball Signo
-T1023,CUST-1345,101,Caneta Gel Pilot G2 Preta
-T1023,CUST-1345,301,Refil Caneta Gel Pilot
+T1023,CUST-1313,101,Caneta Gel Pilot G2 Preta
+T1023,CUST-1313,301,Refil Caneta Gel Pilot
 T1024,CUST-1408,101,Caneta Gel Pilot G2 Preta
 T1024,CUST-1408,301,Refil Caneta Gel Pilot
 T1025,CUST-1296,101,Caneta Gel Pilot G2 Preta
 T1025,CUST-1296,301,Refil Caneta Gel Pilot
-T1026,CUST-1044,202,Caderno Cícero Pontado
-T1027,CUST-1062,101,Caneta Gel Pilot G2 Preta
-T1027,CUST-1062,301,Refil Caneta Gel Pilot
-T1028,CUST-1498,101,Caneta Gel Pilot G2 Preta
-T1028,CUST-1498,301,Refil Caneta Gel Pilot
-T1029,CUST-1128,202,Caderno Cícero Pontado
-T1029,CUST-1128,103,Caneta Esferográfica Bic Cristal
-T1030,CUST-1102,101,Caneta Gel Pilot G2 Preta
-T1030,CUST-1102,301,Refil Caneta Gel Pilot
-T1031,CUST-1259,102,Caneta Gel Uni-ball Signo
-T1031,CUST-1259,202,Caderno Cícero Pontado
-T1031,CUST-1259,301,Refil Caneta Gel Pilot
-T1032,CUST-1242,101,Caneta Gel Pilot G2 Preta
-T1032,CUST-1242,301,Refil Caneta Gel Pilot
+T1027,CUST-1197,101,Caneta Gel Pilot G2 Preta
+T1027,CUST-1197,301,Refil Caneta Gel Pilot
+T1029,CUST-1081,101,Caneta Gel Pilot G2 Preta
+T1029,CUST-1081,301,Refil Caneta Gel Pilot
 T1033,CUST-1004,101,Caneta Gel Pilot G2 Preta
 T1033,CUST-1004,301,Refil Caneta Gel Pilot
-T1034,CUST-1141,101,Caneta Gel Pilot G2 Preta
-T1034,CUST-1141,301,Refil Caneta Gel Pilot
-T1035,CUST-1162,101,Caneta Gel Pilot G2 Preta
-T1035,CUST-1162,301,Refil Caneta Gel Pilot
-T1036,CUST-1162,101,Caneta Gel Pilot G2 Preta
-T1036,CUST-1162,301,Refil Caneta Gel Pilot
-T1037,CUST-1236,201,Caderno Moleskine Classic
-T1038,CUST-1485,103,Caneta Esferográfica Bic Cristal
-T1038,CUST-1485,301,Refil Caneta Gel Pilot
-T1038,CUST-1485,201,Caderno Moleskine Classic
-T1039,CUST-1299,101,Caneta Gel Pilot G2 Preta
-T1039,CUST-1299,103,Caneta Esferográfica Bic Cristal
-T1039,CUST-1299,301,Refil Caneta Gel Pilot
-T1040,CUST-1381,101,Caneta Gel Pilot G2 Preta
-T1040,CUST-1381,301,Refil Caneta Gel Pilot
-T1041,CUST-1052,101,Caneta Gel Pilot G2 Preta
-T1041,CUST-1052,301,Refil Caneta Gel Pilot
-T1042,CUST-1364,101,Caneta Gel Pilot G2 Preta
-T1042,CUST-1364,301,Refil Caneta Gel Pilot
-T1043,CUST-1412,101,Caneta Gel Pilot G2 Preta
-T1043,CUST-1412,301,Refil Caneta Gel Pilot
-T1044,CUST-1257,101,Caneta Gel Pilot G2 Preta
-T1044,CUST-1257,301,Refil Caneta Gel Pilot
-T1045,CUST-1351,102,Caneta Gel Uni-ball Signo
-T1045,CUST-1351,301,Refil Caneta Gel Pilot
-T1045,CUST-1351,201,Caderno Moleskine Classic
-T1046,CUST-1494,101,Caneta Gel Pilot G2 Preta
-T1046,CUST-1494,301,Refil Caneta Gel Pilot
-T1047,CUST-1154,101,Caneta Gel Pilot G2 Preta
-T1047,CUST-1154,301,Refil Caneta Gel Pilot
-T1048,CUST-1385,101,Caneta Gel Pilot G2 Preta
-T1048,CUST-1385,301,Refil Caneta Gel Pilot
-T1049,CUST-1475,101,Caneta Gel Pilot G2 Preta
-T1049,CUST-1475,301,Refil Caneta Gel Pilot
-T1050,CUST-1349,101,Caneta Gel Pilot G2 Preta
-T1050,CUST-1349,301,Refil Caneta Gel Pilot
-T1051,CUST-1182,101,Caneta Gel Pilot G2 Preta
-T1051,CUST-1182,301,Refil Caneta Gel Pilot
-T1052,CUST-1111,101,Caneta Gel Pilot G2 Preta
-T1052,CUST-1111,301,Refil Caneta Gel Pilot
-T1053,CUST-1079,101,Caneta Gel Pilot G2 Preta
-T1053,CUST-1079,301,Refil Caneta Gel Pilot
-T1054,CUST-1429,101,Caneta Gel Pilot G2 Preta
-T1054,CUST-1429,301,Refil Caneta Gel Pilot
-T1055,CUST-1103,101,Caneta Gel Pilot G2 Preta
-T1055,CUST-1103,301,Refil Caneta Gel Pilot
-T1056,CUST-1361,101,Caneta Gel Pilot G2 Preta
-T1056,CUST-1361,301,Refil Caneta Gel Pilot
-T1057,CUST-1161,101,Caneta Gel Pilot G2 Preta
-T1057,CUST-1161,301,Refil Caneta Gel Pilot
-T1058,CUST-1050,101,Caneta Gel Pilot G2 Preta
-T1058,CUST-1050,301,Refil Caneta Gel Pilot
-T1059,CUST-1251,101,Caneta Gel Pilot G2 Preta
-T1059,CUST-1251,301,Refil Caneta Gel Pilot
-T1060,CUST-1166,101,Caneta Gel Pilot G2 Preta
-T1060,CUST-1166,301,Refil Caneta Gel Pilot
-T1061,CUST-1337,101,Caneta Gel Pilot G2 Preta
-T1061,CUST-1337,301,Refil Caneta Gel Pilot
-T1062,CUST-1264,101,Caneta Gel Pilot G2 Preta
-T1062,CUST-1264,301,Refil Caneta Gel Pilot
-T1063,CUST-1304,101,Caneta Gel Pilot G2 Preta
-T1063,CUST-1304,301,Refil Caneta Gel Pilot
-T1064,CUST-1099,101,Caneta Gel Pilot G2 Preta
-T1064,CUST-1099,301,Refil Caneta Gel Pilot
-T1065,CUST-1147,101,Caneta Gel Pilot G2 Preta
-T1065,CUST-1147,301,Refil Caneta Gel Pilot
-T1066,CUST-1277,201,Caderno Moleskine Classic
-T1066,CUST-1277,202,Caderno Cícero Pontado
-T1066,CUST-1277,101,Caneta Gel Pilot G2 Preta
+T1036,CUST-1297,101,Caneta Gel Pilot G2 Preta
+T1036,CUST-1297,301,Refil Caneta Gel Pilot
+T1039,CUST-1367,101,Caneta Gel Pilot G2 Preta
+T1039,CUST-1367,301,Refil Caneta Gel Pilot
+T1040,CUST-1351,101,Caneta Gel Pilot G2 Preta
+T1040,CUST-1351,301,Refil Caneta Gel Pilot
+T1041,CUST-1105,101,Caneta Gel Pilot G2 Preta
+T1041,CUST-1105,301,Refil Caneta Gel Pilot
+T1043,CUST-1116,101,Caneta Gel Pilot G2 Preta
+T1043,CUST-1116,301,Refil Caneta Gel Pilot
+T1045,CUST-1087,101,Caneta Gel Pilot G2 Preta
+T1045,CUST-1087,301,Refil Caneta Gel Pilot
+T1046,CUST-1070,101,Caneta Gel Pilot G2 Preta
+T1046,CUST-1070,301,Refil Caneta Gel Pilot
+T1048,CUST-1093,101,Caneta Gel Pilot G2 Preta
+T1048,CUST-1093,301,Refil Caneta Gel Pilot
+T1049,CUST-1011,101,Caneta Gel Pilot G2 Preta
+T1049,CUST-1011,301,Refil Caneta Gel Pilot
+T1050,CUST-1436,101,Caneta Gel Pilot G2 Preta
+T1050,CUST-1436,301,Refil Caneta Gel Pilot
+T1051,CUST-1251,101,Caneta Gel Pilot G2 Preta
+T1051,CUST-1251,301,Refil Caneta Gel Pilot
+T1052,CUST-1361,101,Caneta Gel Pilot G2 Preta
+T1052,CUST-1361,301,Refil Caneta Gel Pilot
+T1056,CUST-1237,101,Caneta Gel Pilot G2 Preta
+T1056,CUST-1237,301,Refil Caneta Gel Pilot
+T1057,CUST-1462,101,Caneta Gel Pilot G2 Preta
+T1057,CUST-1462,301,Refil Caneta Gel Pilot
+T1059,CUST-1463,101,Caneta Gel Pilot G2 Preta
+T1059,CUST-1463,301,Refil Caneta Gel Pilot
+T1062,CUST-1262,101,Caneta Gel Pilot G2 Preta
+T1062,CUST-1262,301,Refil Caneta Gel Pilot
+T1063,CUST-1424,101,Caneta Gel Pilot G2 Preta
+T1063,CUST-1424,301,Refil Caneta Gel Pilot
+T1065,CUST-1297,101,Caneta Gel Pilot G2 Preta
+T1065,CUST-1297,301,Refil Caneta Gel Pilot
 T1067,CUST-1006,101,Caneta Gel Pilot G2 Preta
 T1067,CUST-1006,301,Refil Caneta Gel Pilot
 T1068,CUST-1084,101,Caneta Gel Pilot G2 Preta
@@ -145,11 +85,10 @@ T1069,CUST-1159,101,Caneta Gel Pilot G2 Preta
 T1069,CUST-1159,301,Refil Caneta Gel Pilot
 T1070,CUST-1405,101,Caneta Gel Pilot G2 Preta
 T1070,CUST-1405,301,Refil Caneta Gel Pilot
-T1071,CUST-1229,201,Caderno Moleskine Classic
-T1072,CUST-1271,101,Caneta Gel Pilot G2 Preta
-T1072,CUST-1271,301,Refil Caneta Gel Pilot
-T1073,CUST-1409,101,Caneta Gel Pilot G2 Preta
-T1073,CUST-1409,301,Refil Caneta Gel Pilot
+T1072,CUST-1312,101,Caneta Gel Pilot G2 Preta
+T1072,CUST-1312,301,Refil Caneta Gel Pilot
+T1073,CUST-1090,101,Caneta Gel Pilot G2 Preta
+T1073,CUST-1090,301,Refil Caneta Gel Pilot
 T1074,CUST-1183,101,Caneta Gel Pilot G2 Preta
 T1074,CUST-1183,301,Refil Caneta Gel Pilot
 T1075,CUST-1089,101,Caneta Gel Pilot G2 Preta
@@ -158,48 +97,21 @@ T1076,CUST-1244,101,Caneta Gel Pilot G2 Preta
 T1076,CUST-1244,301,Refil Caneta Gel Pilot
 T1077,CUST-1091,101,Caneta Gel Pilot G2 Preta
 T1077,CUST-1091,301,Refil Caneta Gel Pilot
-T1078,CUST-1156,301,Refil Caneta Gel Pilot
-T1078,CUST-1156,202,Caderno Cícero Pontado
-T1079,CUST-1101,101,Caneta Gel Pilot G2 Preta
-T1079,CUST-1101,301,Refil Caneta Gel Pilot
-T1080,CUST-1329,103,Caneta Esferográfica Bic Cristal
-T1080,CUST-1329,201,Caderno Moleskine Classic
-T1080,CUST-1329,101,Caneta Gel Pilot G2 Preta
-T1081,CUST-1270,103,Caneta Esferográfica Bic Cristal
-T1082,CUST-1402,101,Caneta Gel Pilot G2 Preta
-T1082,CUST-1402,301,Refil Caneta Gel Pilot
-T1083,CUST-1382,102,Caneta Gel Uni-ball Signo
-T1083,CUST-1382,301,Refil Caneta Gel Pilot
-T1083,CUST-1382,103,Caneta Esferográfica Bic Cristal
-T1084,CUST-1473,101,Caneta Gel Pilot G2 Preta
-T1084,CUST-1473,301,Refil Caneta Gel Pilot
-T1085,CUST-1158,101,Caneta Gel Pilot G2 Preta
-T1085,CUST-1158,301,Refil Caneta Gel Pilot
-T1086,CUST-1347,101,Caneta Gel Pilot G2 Preta
-T1086,CUST-1347,301,Refil Caneta Gel Pilot
-T1087,CUST-1193,201,Caderno Moleskine Classic
-T1087,CUST-1193,301,Refil Caneta Gel Pilot
-T1088,CUST-1445,101,Caneta Gel Pilot G2 Preta
-T1088,CUST-1445,301,Refil Caneta Gel Pilot
-T1089,CUST-1136,101,Caneta Gel Pilot G2 Preta
-T1089,CUST-1136,301,Refil Caneta Gel Pilot
-T1090,CUST-1387,101,Caneta Gel Pilot G2 Preta
-T1090,CUST-1387,301,Refil Caneta Gel Pilot
-T1091,CUST-1172,101,Caneta Gel Pilot G2 Preta
-T1091,CUST-1172,301,Refil Caneta Gel Pilot
-T1092,CUST-1289,101,Caneta Gel Pilot G2 Preta
-T1092,CUST-1289,301,Refil Caneta Gel Pilot
-T1093,CUST-1297,101,Caneta Gel Pilot G2 Preta
-T1093,CUST-1297,301,Refil Caneta Gel Pilot
-T1094,CUST-1229,102,Caneta Gel Uni-ball Signo
-T1094,CUST-1229,202,Caderno Cícero Pontado
-T1095,CUST-1163,101,Caneta Gel Pilot G2 Preta
-T1095,CUST-1163,301,Refil Caneta Gel Pilot
-T1096,CUST-1324,101,Caneta Gel Pilot G2 Preta
-T1096,CUST-1324,301,Refil Caneta Gel Pilot
-T1097,CUST-1481,101,Caneta Gel Pilot G2 Preta
-T1097,CUST-1481,301,Refil Caneta Gel Pilot
-T1098,CUST-1413,101,Caneta Gel Pilot G2 Preta
-T1098,CUST-1413,301,Refil Caneta Gel Pilot
-T1099,CUST-1105,101,Caneta Gel Pilot G2 Preta
-T1099,CUST-1105,301,Refil Caneta Gel Pilot
+T1079,CUST-1324,101,Caneta Gel Pilot G2 Preta
+T1079,CUST-1324,301,Refil Caneta Gel Pilot
+T1083,CUST-1041,101,Caneta Gel Pilot G2 Preta
+T1083,CUST-1041,301,Refil Caneta Gel Pilot
+T1084,CUST-1317,101,Caneta Gel Pilot G2 Preta
+T1084,CUST-1317,301,Refil Caneta Gel Pilot
+T1085,CUST-1054,101,Caneta Gel Pilot G2 Preta
+T1085,CUST-1054,301,Refil Caneta Gel Pilot
+T1090,CUST-1220,101,Caneta Gel Pilot G2 Preta
+T1090,CUST-1220,301,Refil Caneta Gel Pilot
+T1095,CUST-1461,101,Caneta Gel Pilot G2 Preta
+T1095,CUST-1461,301,Refil Caneta Gel Pilot
+T1097,CUST-1200,101,Caneta Gel Pilot G2 Preta
+T1097,CUST-1200,301,Refil Caneta Gel Pilot
+T1098,CUST-1371,101,Caneta Gel Pilot G2 Preta
+T1098,CUST-1371,301,Refil Caneta Gel Pilot
+T1099,CUST-1408,101,Caneta Gel Pilot G2 Preta
+T1099,CUST-1408,301,Refil Caneta Gel Pilot
