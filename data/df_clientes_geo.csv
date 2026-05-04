@@ -1,501 +1,62 @@
 cliente_id,nome,cidade,estado,cep,latitude,longitude,cluster_dbscan,regiao
-CUST-1000,Gisele Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1001,Gisele Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1002,Hugo Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1003,Fabio Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1004,Fabio Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1005,Carla Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1006,Iara Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1007,João Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1008,Gisele Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1009,Diego Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1010,Fabio Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1011,Diego Costa,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1012,Hugo Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1013,Iara Souza,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1014,Ana Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1015,Carla Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1016,João Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1017,Bruno Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1018,Carla Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1019,Elena Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1020,Gisele Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1021,Carla Ferreira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1022,Elena Ferreira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1023,Gisele Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1024,Iara Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1025,João Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1026,Iara Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1027,Fabio Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1028,Hugo Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1029,Diego Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1030,Bruno Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1031,Bruno Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1032,Carla Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1033,Gisele Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1034,Elena Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1035,Iara Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1036,Diego Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1037,Diego Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1038,Iara Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1039,João Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1040,Elena Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1041,Carla Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1042,Hugo Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1043,Iara Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1044,Carla Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1045,Elena Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1046,Ana Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1047,Fabio Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1048,Elena Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1049,Diego Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1050,Elena Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1051,Ana Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1052,Elena Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1053,João Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1054,Bruno Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1055,Bruno Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1056,Gisele Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1057,Hugo Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1058,Diego Silva,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1059,Gisele Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1060,Fabio Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1061,Ana Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1062,Ana Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1063,Diego Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1064,Gisele Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1065,Carla Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1066,João Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1067,Elena Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1068,Fabio Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1069,Elena Costa,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1070,Carla Pereira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1071,Ana Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1072,João Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1073,Elena Ferreira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1074,João Santos,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1075,Diego Rodrigues,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1076,Hugo Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1077,Carla Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1078,Bruno Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1079,Hugo Pereira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1080,Diego Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1081,Diego Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1082,Carla Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1083,Elena Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1084,Iara Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1085,Carla Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1086,Diego Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1087,Iara Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1088,Iara Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1089,João Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1090,Iara Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1091,Hugo Santos,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1092,Elena Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1093,Diego Silva,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1094,Fabio Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1095,João Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1096,João Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1097,Iara Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1098,Elena Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1099,Elena Rodrigues,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1100,Carla Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1101,Ana Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1102,João Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1103,João Souza,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1104,Elena Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1105,Elena Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1106,Fabio Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1107,João Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1108,Ana Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1109,Elena Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1110,Ana Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1111,Ana Pereira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1112,Elena Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1113,Iara Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1114,Ana Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1115,Gisele Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1116,Fabio Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1117,Gisele Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1118,Gisele Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1119,Bruno Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1120,Ana Rodrigues,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1121,Ana Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1122,Ana Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1123,Bruno Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1124,Iara Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1125,Diego Rodrigues,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1126,Bruno Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1127,João Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1128,João Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1129,Iara Santos,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1130,Ana Santos,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1131,Diego Ferreira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1132,Gisele Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1133,Hugo Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1134,Bruno Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1135,Gisele Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1136,João Costa,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1137,Diego Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1138,Fabio Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1139,Iara Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1140,Hugo Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1141,Elena Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1142,Hugo Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1143,Elena Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1144,Diego Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1145,Carla Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1146,Carla Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1147,Diego Silva,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1148,Fabio Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1149,Fabio Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1150,Hugo Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1151,Hugo Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1152,Bruno Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1153,Carla Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1154,Hugo Oliveira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1155,Elena Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1156,João Silva,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1157,Carla Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1158,Iara Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1159,Carla Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1160,Hugo Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1161,Diego Costa,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1162,Ana Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1163,Bruno Santos,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1164,Diego Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1165,Diego Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1166,Diego Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1167,João Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1168,João Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1169,Diego Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1170,Ana Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1171,Hugo Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1172,Elena Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1173,Fabio Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1174,Elena Silva,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1175,Iara Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1176,Ana Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1177,Hugo Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1178,Fabio Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1179,Diego Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1180,Ana Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1181,Hugo Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1182,Hugo Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1183,Ana Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1184,Hugo Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1185,Carla Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1186,Bruno Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1187,Hugo Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1188,Elena Oliveira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1189,Hugo Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1190,Gisele Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1191,Elena Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1192,Bruno Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1193,Bruno Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1194,Fabio Rodrigues,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1195,Diego Santos,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1196,Hugo Oliveira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1197,Ana Costa,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1198,Iara Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1199,Bruno Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1200,João Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1201,Fabio Santos,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1202,Iara Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1203,Iara Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1204,Bruno Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1205,Carla Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1206,Diego Silva,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1207,Gisele Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1208,João Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1209,Ana Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1210,Elena Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1211,Hugo Santos,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1212,Carla Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1213,Ana Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1214,Hugo Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1215,Fabio Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1216,João Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1217,Gisele Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1218,Elena Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1219,Gisele Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1220,Hugo Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1221,Hugo Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1222,Ana Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1223,João Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1224,Gisele Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1225,Gisele Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1226,Iara Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1227,Gisele Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1228,Hugo Costa,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1229,Ana Pereira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1230,Diego Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1231,Fabio Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1232,Bruno Silva,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1233,Fabio Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1234,Iara Santos,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1235,Fabio Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1236,Ana Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1237,Ana Rodrigues,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1238,Iara Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1239,Hugo Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1240,Bruno Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1241,Bruno Rodrigues,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1242,João Santos,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1243,Ana Santos,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1244,João Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1245,Ana Costa,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1246,Iara Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1247,Fabio Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1248,Carla Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1249,Gisele Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1250,Gisele Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1251,Ana Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1252,Fabio Oliveira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1253,Elena Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1254,Diego Oliveira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1255,Hugo Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1256,Diego Oliveira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1257,Ana Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1258,Bruno Costa,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1259,Gisele Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1260,Bruno Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1261,Hugo Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1262,Fabio Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1263,Fabio Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1264,Bruno Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1265,Iara Silva,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1266,Bruno Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1267,João Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1268,Gisele Silva,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1269,Iara Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1270,Ana Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1271,Fabio Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1272,Hugo Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1273,Iara Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1274,Diego Silva,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1275,Ana Silva,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1276,Fabio Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1277,Bruno Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1278,Carla Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1279,Iara Santos,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1280,Diego Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1281,Fabio Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1282,João Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1283,Iara Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1284,Hugo Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1285,Fabio Santos,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1286,Carla Souza,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1287,Ana Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1288,Hugo Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1289,Hugo Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1290,Elena Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1291,Fabio Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1292,Carla Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1293,Hugo Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1294,Bruno Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1295,Hugo Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1296,Iara Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1297,Ana Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1298,João Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1299,Iara Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1300,Iara Rodrigues,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1301,Elena Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1302,Fabio Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1303,Elena Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1304,Elena Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1305,João Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1306,Bruno Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1307,Bruno Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1308,Diego Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1309,Hugo Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1310,Ana Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1311,João Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1312,Iara Costa,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1313,Elena Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1314,Fabio Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1315,Iara Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1316,Fabio Costa,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1317,Gisele Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1318,Iara Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1319,Carla Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1320,Carla Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1321,João Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1322,Bruno Costa,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1323,Elena Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1324,Gisele Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1325,Gisele Rodrigues,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1326,Carla Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1327,Diego Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1328,Carla Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1329,Ana Pereira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1330,João Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1331,João Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1332,Hugo Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1333,Iara Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1334,Hugo Rodrigues,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1335,Bruno Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1336,Carla Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1337,Carla Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1338,Carla Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1339,Iara Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1340,Carla Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1341,Hugo Souza,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1342,Gisele Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1343,Carla Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1344,Bruno Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1345,Fabio Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1346,Fabio Santos,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1347,Bruno Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1348,Diego Pereira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1349,João Costa,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1350,Hugo Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1351,Carla Rodrigues,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1352,Ana Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1353,Elena Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1354,Diego Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1355,Bruno Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1356,Gisele Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1357,Elena Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1358,Bruno Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1359,Carla Rodrigues,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1360,Carla Santos,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1361,João Silva,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1362,Ana Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1363,Bruno Rodrigues,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1364,Diego Santos,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1365,Bruno Souza,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1366,João Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1367,Hugo Ferreira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1368,Carla Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1369,Hugo Silva,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1370,Fabio Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1371,Carla Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1372,Fabio Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1373,Fabio Costa,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1374,Elena Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1375,Elena Santos,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1376,Ana Souza,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1377,Elena Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1378,Bruno Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1379,Ana Silva,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1380,Ana Santos,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1381,Gisele Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1382,Ana Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1383,Ana Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1384,Ana Pereira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1385,Diego Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1386,Carla Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1387,Fabio Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1388,Ana Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1389,Bruno Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1390,Iara Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1391,Hugo Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1392,Bruno Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1393,Hugo Oliveira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1394,Diego Pereira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1395,Elena Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1396,Iara Ferreira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1397,Hugo Costa,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1398,Fabio Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1399,Bruno Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1400,Carla Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1401,Ana Rodrigues,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1402,Gisele Souza,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1403,João Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1404,Diego Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1405,João Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1406,Iara Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1407,João Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1408,Elena Silva,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1409,Fabio Rodrigues,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1410,Diego Santos,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1411,Elena Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1412,Diego Souza,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1413,Diego Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1414,Gisele Souza,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1415,Carla Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1416,Carla Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1417,Elena Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1418,Gisele Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1419,Iara Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1420,Fabio Ferreira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1421,Elena Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1422,Ana Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1423,Carla Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1424,Elena Pereira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1425,Elena Souza,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1426,Bruno Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1427,Iara Ferreira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1428,Hugo Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1429,Gisele Souza,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1430,João Silva,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1431,Hugo Oliveira,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1432,Ana Oliveira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1433,Diego Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1434,Iara Pereira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1435,João Pereira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1436,Iara Pereira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1437,João Silva,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1438,Bruno Souza,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1439,Bruno Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1440,Elena Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1441,Carla Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1442,João Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1443,Diego Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1444,Hugo Pereira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1445,Iara Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1446,Carla Rodrigues,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1447,Diego Ferreira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1448,Hugo Souza,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1449,Elena Rodrigues,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1450,João Souza,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1451,Carla Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1452,Hugo Pereira,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1453,Fabio Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1454,Gisele Rodrigues,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1455,Bruno Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1456,Elena Silva,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1457,João Costa,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1458,Iara Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1459,Iara Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1460,Hugo Santos,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1461,Elena Souza,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1462,Iara Oliveira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1463,Fabio Silva,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1464,Carla Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1465,Hugo Souza,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
-CUST-1466,Ana Rodrigues,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1467,Fabio Ferreira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1468,Diego Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1469,Bruno Oliveira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1470,Fabio Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1471,Diego Silva,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1472,Gisele Costa,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1473,João Oliveira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1474,Iara Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1475,Diego Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1476,Diego Silva,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1477,Diego Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1478,Fabio Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1479,Carla Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1480,Diego Pereira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1481,Diego Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1482,Gisele Ferreira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1483,Iara Oliveira,Belo Horizonte,MG,30180-008,-19.9375,-43.9378,7,Região 2
-CUST-1484,Fabio Souza,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1485,Diego Costa,Rio de Janeiro,RJ,20010-010,-22.9068,-43.1729,3,Região 2
-CUST-1486,Hugo Santos,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1487,Fabio Costa,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1488,João Oliveira,São Paulo,SP,01001-000,-23.5505,-46.6333,5,Região 2
-CUST-1489,Carla Rodrigues,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1490,Ana Pereira,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1491,Hugo Oliveira,Florianópolis,SC,88020-280,-27.5949,-48.5495,0,Região 1
-CUST-1492,Elena Silva,Porto Alegre,RS,90040-060,-30.0346,-51.2228,2,Região 1
-CUST-1493,Iara Silva,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1494,Elena Oliveira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1495,Carla Oliveira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1496,Carla Souza,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1497,Ana Pereira,Goiânia,GO,74005-210,-16.6864,-49.2643,6,Região 4
-CUST-1498,Iara Oliveira,Salvador,BA,40020-005,-12.9714,-38.5014,4,Região 3
-CUST-1499,Diego Santos,Curitiba,PR,80020-310,-25.4297,-49.2677,1,Região 1
+CUST-1014,Ana Silva,Goiânia,GO,74884-010,-16.740249,-49.256078,0,Região 3
+CUST-1016,João Ferreira,Goiânia,GO,74040-070,-16.685586,-49.264859,0,Região 1
+CUST-1033,Gisele Souza,Goiânia,GO,74825-440,-16.706728,-49.26082,0,Região 1
+CUST-1039,João Rodrigues,Goiânia,GO,74680-030,-16.717985,-49.248071,0,Região 3
+CUST-1042,Hugo Souza,Goiânia,GO,74680-030,-16.718176,-49.248656,0,Região 3
+CUST-1053,João Ferreira,Goiânia,GO,74055-140,-16.691562,-49.264525,0,Região 1
+CUST-1055,Bruno Santos,Goiânia,GO,74645-000,-16.704372,-49.269119,0,Região 1
+CUST-1067,Elena Silva,Goiânia,GO,74130-010,-16.699035,-49.271065,0,Região 1
+CUST-1069,Elena Costa,Goiânia,GO,74000-100,-16.682146,-49.255311,0,Região 1
+CUST-1080,Diego Santos,Goiânia,GO,74040-070,-16.686606,-49.263735,0,Região 1
+CUST-1081,Diego Silva,Goiânia,GO,74605-050,-16.690616,-49.256731,0,Região 1
+CUST-1087,Iara Souza,Goiânia,GO,74250-040,-16.68869,-49.254508,0,Região 1
+CUST-1102,João Rodrigues,Goiânia,GO,74000-040,-16.684675,-49.261391,0,Região 1
+CUST-1107,João Rodrigues,Goiânia,GO,74275-000,-16.728434,-49.280318,0,Região 3
+CUST-1114,Ana Silva,Goiânia,GO,74000-010,-16.682249,-49.259003,0,Região 1
+CUST-1123,Bruno Pereira,Belo Horizonte,GO,30160-010,-19.916586,-43.930592,1,Região 2
+CUST-1124,Iara Ferreira,Goiânia,GO,74605-220,-16.693745,-49.263981,0,Região 1
+CUST-1128,João Costa,Belo Horizonte,GO,31017-900,-19.889049,-43.963605,1,Região 2
+CUST-1139,Iara Pereira,Belo Horizonte,GO,30710-060,-19.908342,-43.948208,1,Região 2
+CUST-1142,Hugo Ferreira,Goiânia,GO,74040-010,-16.684625,-49.263747,0,Região 1
+CUST-1158,Iara Silva,Goiânia,GO,74080-040,-16.688556,-49.265066,0,Região 1
+CUST-1179,Diego Silva,Goiânia,GO,74000-010,-16.680321,-49.260232,0,Região 1
+CUST-1205,Carla Santos,Goiânia,GO,74535-240,-16.696731,-49.27998,0,Região 1
+CUST-1216,João Silva,Goiânia,GO,74605-220,-16.693821,-49.261014,0,Região 1
+CUST-1221,Hugo Santos,Goiânia,GO,74000-050,-16.684892,-49.264964,0,Região 1
+CUST-1222,Ana Souza,Goiânia,GO,74815-330,-16.724203,-49.265915,0,Região 3
+CUST-1228,Hugo Costa,Goiânia,GO,74040-010,-16.686363,-49.265405,0,Região 1
+CUST-1229,Ana Pereira,Goiânia,GO,74275-000,-16.727884,-49.278291,0,Região 3
+CUST-1251,Ana Rodrigues,Goiânia,GO,74673-020,-16.708262,-49.295315,0,Região 3
+CUST-1259,Gisele Ferreira,Goiânia,GO,74000-040,-16.68343,-49.258744,0,Região 1
+CUST-1263,Fabio Ferreira,Goiânia,GO,74605-010,-16.693846,-49.268356,0,Região 1
+CUST-1301,Elena Souza,Goiânia,GO,74130-010,-16.701753,-49.270545,0,Região 1
+CUST-1311,João Rodrigues,Goiânia,GO,74000-010,-16.681444,-49.259117,0,Região 1
+CUST-1312,Iara Costa,Goiânia,GO,74000-010,-16.681799,-49.257802,0,Região 1
+CUST-1321,João Santos,Goiânia,GO,74275-000,-16.727802,-49.28172,0,Região 3
+CUST-1344,Bruno Souza,Goiânia,GO,74000-050,-16.683746,-49.262247,0,Região 1
+CUST-1348,Diego Pereira,Goiânia,GO,74080-040,-16.689435,-49.263766,0,Região 1
+CUST-1349,João Costa,Goiânia,GO,74250-010,-16.696553,-49.253475,0,Região 1
+CUST-1387,Fabio Rodrigues,Goiânia,GO,74040-010,-16.684922,-49.263648,0,Região 1
+CUST-1391,Hugo Santos,Goiânia,GO,74000-100,-16.683222,-49.258247,0,Região 1
+CUST-1394,Diego Pereira,Goiânia,GO,74605-050,-16.693046,-49.256988,0,Região 1
+CUST-1396,Iara Ferreira,Goiânia,GO,74000-050,-16.684516,-49.263546,0,Região 1
+CUST-1397,Hugo Costa,Goiânia,GO,74840-000,-16.737657,-49.299543,0,Região 3
+CUST-1433,Diego Rodrigues,Goiânia,GO,74645-540,-16.708383,-49.292073,0,Região 3
+CUST-1435,João Pereira,Goiânia,GO,74055-140,-16.692788,-49.267863,0,Região 1
+CUST-1440,Elena Santos,Goiânia,GO,74605-050,-16.692628,-49.259549,0,Região 1
+CUST-1443,Diego Santos,Goiânia,GO,74215-010,-16.676383,-49.254362,0,Região 1
+CUST-1445,Iara Rodrigues,Goiânia,GO,74000-100,-16.68315,-49.256104,0,Região 1
+CUST-1455,Bruno Souza,Goiânia,GO,74000-010,-16.680767,-49.260381,0,Região 1
+CUST-1460,Hugo Santos,Goiânia,GO,74055-240,-16.695833,-49.268695,0,Região 1
+CUST-1462,Iara Oliveira,Goiânia,GO,74840-020,-16.726591,-49.317283,0,Região 3
+CUST-1464,Carla Silva,Goiânia,GO,74250-040,-16.688437,-49.254292,0,Região 1
+CUST-1469,Bruno Oliveira,Goiânia,GO,74130-010,-16.700262,-49.270508,0,Região 1
+CUST-1475,Diego Rodrigues,Goiânia,GO,74040-070,-16.683862,-49.262114,0,Região 1
+CUST-1478,Fabio Silva,Goiânia,GO,74000-010,-16.679858,-49.25929,0,Região 1
+CUST-1489,Carla Rodrigues,Goiânia,GO,74000-010,-16.682329,-49.260137,0,Região 1
+CUST-1493,Iara Silva,Goiânia,GO,74000-040,-16.684881,-49.260996,0,Região 1
+CUST-1494,Elena Oliveira,Goiânia,GO,74250-010,-16.697193,-49.25276,0,Região 1
+CUST-1495,Carla Oliveira,Goiânia,GO,74645-540,-16.709123,-49.29185,0,Região 3
+CUST-1496,Carla Souza,Goiânia,GO,74535-240,-16.698079,-49.279136,0,Região 1
+CUST-1497,Ana Pereira,Goiânia,GO,74673-020,-16.708353,-49.29265,0,Região 3

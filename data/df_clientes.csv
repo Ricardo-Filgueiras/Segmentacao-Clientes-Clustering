@@ -1,501 +1,501 @@
 cliente_id,nome,genero,data_nascimento,data_cadastro,estado,cidade,endereco,cep,latitude,longitude
-CUST-1000,Gisele Souza,M,1965-11-06,2024-12-01,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1001,Gisele Santos,F,1997-10-13,2024-01-08,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1002,Hugo Rodrigues,M,2006-01-28,2024-05-06,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1003,Fabio Santos,F,1987-08-04,2024-04-04,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1004,Fabio Pereira,F,1959-11-21,2024-05-25,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1005,Carla Souza,M,2005-03-06,2024-10-08,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1006,Iara Ferreira,F,1983-03-03,2023-01-14,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1007,João Silva,F,2006-02-01,2023-04-02,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1008,Gisele Souza,M,1961-12-14,2023-07-25,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1009,Diego Santos,M,2006-11-14,2023-04-16,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1010,Fabio Pereira,Outro,1982-11-30,2023-06-11,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1011,Diego Costa,M,1993-06-09,2023-09-09,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1012,Hugo Pereira,F,1990-11-19,2025-03-02,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1013,Iara Souza,M,1963-12-08,2023-06-06,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1014,Ana Silva,Outro,1984-09-05,2024-10-09,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1015,Carla Silva,M,1973-04-01,2024-01-14,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1016,João Ferreira,M,1980-08-31,2023-07-20,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1017,Bruno Silva,F,1985-11-11,2024-12-28,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1018,Carla Souza,M,1981-12-09,2025-08-18,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1019,Elena Ferreira,M,2008-01-02,2023-08-06,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1020,Gisele Oliveira,M,1993-01-29,2024-07-07,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1021,Carla Ferreira,M,1959-11-28,2023-04-06,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1022,Elena Ferreira,M,1993-07-23,2024-06-24,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1023,Gisele Oliveira,M,1980-11-08,2024-11-12,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1024,Iara Pereira,M,1980-09-27,2024-07-09,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1025,João Ferreira,M,1969-07-10,2023-08-13,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1026,Iara Oliveira,F,1956-05-31,2023-09-16,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1027,Fabio Rodrigues,M,1971-06-05,2025-03-29,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1028,Hugo Ferreira,F,1976-10-10,2024-04-16,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1029,Diego Silva,F,1956-04-26,2024-05-24,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1030,Bruno Oliveira,F,1959-10-30,2024-11-29,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1031,Bruno Santos,F,1985-06-02,2023-08-13,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1032,Carla Costa,F,1964-06-13,2024-11-02,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1033,Gisele Souza,F,1991-05-01,2023-10-21,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1034,Elena Souza,Outro,1986-05-17,2023-05-24,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1035,Iara Souza,M,1992-01-27,2025-02-09,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1036,Diego Oliveira,M,1989-08-16,2025-05-13,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1037,Diego Silva,M,1969-02-12,2025-05-21,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1038,Iara Silva,F,1977-03-22,2024-09-02,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1039,João Rodrigues,M,1960-01-17,2025-06-15,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1040,Elena Pereira,M,1999-05-21,2023-04-09,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1041,Carla Souza,M,1975-09-21,2024-08-09,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1042,Hugo Souza,M,1988-05-02,2023-08-15,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1043,Iara Oliveira,Outro,1990-02-07,2024-12-06,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1044,Carla Rodrigues,Outro,1972-08-07,2024-08-02,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1045,Elena Rodrigues,M,2000-08-26,2023-07-14,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1046,Ana Rodrigues,F,1957-12-28,2025-01-19,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1047,Fabio Costa,F,2000-03-31,2023-01-27,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1048,Elena Costa,M,1961-03-07,2025-03-26,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1049,Diego Oliveira,M,1991-07-23,2023-08-08,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1050,Elena Costa,F,1967-12-11,2023-10-07,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1051,Ana Costa,Outro,1973-07-11,2025-09-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1052,Elena Rodrigues,M,2005-09-01,2023-01-18,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1053,João Ferreira,M,2005-01-12,2024-11-16,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1054,Bruno Rodrigues,M,1985-09-07,2023-06-04,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1055,Bruno Santos,M,1975-03-22,2023-09-03,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1056,Gisele Pereira,F,1982-01-23,2025-03-28,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1057,Hugo Pereira,F,2001-03-01,2023-02-05,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1058,Diego Silva,F,1962-08-29,2025-08-29,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1059,Gisele Ferreira,F,2006-03-25,2024-12-27,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1060,Fabio Oliveira,F,1986-03-04,2024-07-23,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1061,Ana Souza,F,1993-11-17,2024-03-19,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1062,Ana Rodrigues,M,1964-10-01,2023-01-05,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1063,Diego Costa,F,1956-02-04,2023-02-16,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1064,Gisele Rodrigues,M,1995-09-08,2023-04-16,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1065,Carla Silva,F,1989-10-11,2023-02-27,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1066,João Pereira,F,1985-09-07,2024-01-28,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1067,Elena Silva,F,2007-05-13,2025-03-12,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1068,Fabio Rodrigues,F,1963-04-21,2023-07-08,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1069,Elena Costa,M,2005-10-23,2023-06-03,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1070,Carla Pereira,F,1979-06-08,2023-03-10,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1071,Ana Costa,M,1956-06-29,2025-06-30,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1072,João Rodrigues,M,1972-04-01,2023-09-11,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1073,Elena Ferreira,F,2003-09-30,2025-03-12,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1074,João Santos,M,1976-05-02,2023-11-21,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1075,Diego Rodrigues,F,2006-07-31,2024-04-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1076,Hugo Souza,F,1975-07-20,2024-03-02,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1077,Carla Silva,Outro,1998-11-27,2024-07-09,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1078,Bruno Pereira,F,1973-06-14,2025-04-28,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1079,Hugo Pereira,M,1982-09-20,2024-09-08,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1080,Diego Santos,M,1963-11-04,2024-02-17,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1081,Diego Silva,M,1972-01-24,2024-04-01,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1082,Carla Silva,M,1972-10-11,2024-10-25,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1083,Elena Souza,F,1995-04-06,2023-08-05,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1084,Iara Costa,M,1988-06-08,2023-12-08,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1085,Carla Silva,F,1967-11-02,2023-09-22,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1086,Diego Oliveira,M,1992-11-02,2023-04-09,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1087,Iara Souza,M,1972-11-23,2023-05-31,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1088,Iara Ferreira,F,1966-07-15,2025-07-23,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1089,João Pereira,M,1979-05-24,2025-04-22,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1090,Iara Santos,M,1991-05-03,2023-08-18,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1091,Hugo Santos,F,1981-09-13,2023-07-13,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1092,Elena Costa,Outro,1960-01-19,2025-04-12,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1093,Diego Silva,M,1983-03-18,2023-05-12,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1094,Fabio Souza,F,1964-07-19,2023-06-16,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1095,João Santos,F,2005-07-18,2024-10-14,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1096,João Souza,F,1968-01-16,2024-01-22,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1097,Iara Ferreira,F,1983-03-07,2025-07-17,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1098,Elena Costa,M,1963-08-11,2023-06-22,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1099,Elena Rodrigues,M,1997-05-02,2023-08-17,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1100,Carla Oliveira,Outro,1990-11-25,2023-08-21,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1101,Ana Pereira,M,2005-08-16,2024-04-15,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1102,João Rodrigues,F,1970-08-13,2024-01-08,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1103,João Souza,M,2000-07-06,2023-11-12,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1104,Elena Silva,F,1981-08-21,2023-07-20,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1105,Elena Souza,M,1960-12-03,2024-06-30,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1106,Fabio Santos,F,2003-03-11,2025-07-09,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1107,João Rodrigues,M,1964-01-13,2023-04-29,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1108,Ana Costa,M,1976-05-20,2023-06-26,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1109,Elena Santos,F,1986-03-03,2025-03-05,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1110,Ana Santos,F,2007-03-02,2024-06-01,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1111,Ana Pereira,Outro,1970-05-02,2024-03-12,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1112,Elena Pereira,M,1998-10-18,2023-05-25,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1113,Iara Costa,F,1963-06-27,2025-02-10,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1114,Ana Silva,M,1974-02-01,2023-04-05,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1115,Gisele Santos,M,2005-03-07,2023-09-25,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1116,Fabio Souza,M,1978-05-08,2025-04-04,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1117,Gisele Ferreira,M,1994-11-05,2023-03-16,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1118,Gisele Costa,M,1974-03-27,2023-11-02,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1119,Bruno Costa,M,1957-03-17,2023-09-06,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1120,Ana Rodrigues,M,1978-05-12,2023-04-16,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1121,Ana Pereira,M,1998-07-09,2024-02-05,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1122,Ana Souza,F,2003-12-05,2025-02-12,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1123,Bruno Pereira,F,1965-05-22,2025-08-28,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1124,Iara Ferreira,F,1978-01-06,2025-06-18,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1125,Diego Rodrigues,F,1976-07-03,2024-10-28,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1126,Bruno Pereira,F,1989-04-09,2023-01-05,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1127,João Pereira,F,2003-01-07,2024-10-06,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1128,João Costa,F,1994-06-06,2025-03-23,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1129,Iara Santos,M,1986-05-18,2023-02-25,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1130,Ana Santos,M,2000-09-17,2025-05-16,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1131,Diego Ferreira,M,1986-12-29,2024-04-18,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1132,Gisele Costa,F,1963-08-17,2024-06-09,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1133,Hugo Oliveira,M,1961-05-25,2023-12-29,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1134,Bruno Santos,F,1958-01-04,2023-07-11,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1135,Gisele Pereira,F,1969-04-18,2023-08-19,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1136,João Costa,F,1991-12-29,2023-07-31,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1137,Diego Santos,M,1963-08-25,2023-04-21,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1138,Fabio Santos,M,1968-05-25,2024-08-17,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1139,Iara Pereira,F,1982-02-27,2025-01-07,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1140,Hugo Oliveira,Outro,1971-04-02,2024-03-12,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1141,Elena Costa,F,1961-01-14,2023-12-16,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1142,Hugo Ferreira,M,2005-05-09,2024-06-26,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1143,Elena Souza,Outro,2002-02-20,2024-04-12,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1144,Diego Ferreira,M,1959-10-17,2024-05-18,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1145,Carla Costa,M,1993-06-21,2024-01-27,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1146,Carla Pereira,M,2002-09-12,2025-04-15,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1147,Diego Silva,M,1996-11-23,2023-01-01,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1148,Fabio Pereira,M,1972-02-17,2023-09-16,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1149,Fabio Santos,F,2003-08-23,2023-06-21,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1150,Hugo Santos,F,1971-02-21,2025-02-23,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1151,Hugo Costa,F,1978-10-11,2025-03-27,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1152,Bruno Costa,M,1997-08-25,2025-07-18,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1153,Carla Oliveira,M,1986-11-13,2025-04-11,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1154,Hugo Oliveira,M,1994-02-28,2025-03-08,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1155,Elena Pereira,M,1994-11-09,2023-05-12,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1156,João Silva,M,2000-03-19,2024-09-07,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1157,Carla Pereira,F,1985-11-10,2023-05-23,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1158,Iara Silva,M,2006-03-04,2024-09-07,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1159,Carla Ferreira,F,2002-11-02,2024-01-26,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1160,Hugo Santos,F,1993-09-21,2024-10-30,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1161,Diego Costa,M,1972-08-11,2024-07-03,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1162,Ana Pereira,F,1975-05-06,2023-07-15,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1163,Bruno Santos,M,1998-01-21,2023-04-28,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1164,Diego Pereira,F,1993-08-06,2024-10-09,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1165,Diego Souza,M,1981-10-10,2024-09-18,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1166,Diego Souza,M,1981-11-05,2024-10-21,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1167,João Rodrigues,M,2000-12-16,2025-03-25,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1168,João Pereira,F,1990-09-22,2024-09-07,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1169,Diego Rodrigues,M,1971-02-22,2023-05-07,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1170,Ana Souza,F,1999-11-19,2023-01-29,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1171,Hugo Silva,M,1985-04-30,2025-03-24,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1172,Elena Santos,M,1985-03-05,2023-01-01,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1173,Fabio Ferreira,F,1993-08-14,2024-03-06,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1174,Elena Silva,F,1982-03-28,2024-07-28,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1175,Iara Santos,M,2006-06-11,2024-04-19,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1176,Ana Rodrigues,F,1964-05-11,2023-06-28,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1177,Hugo Silva,M,2002-01-29,2023-06-10,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1178,Fabio Santos,F,1987-11-24,2025-08-24,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1179,Diego Silva,F,1986-11-10,2024-12-01,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1180,Ana Ferreira,M,1995-06-09,2024-03-10,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1181,Hugo Oliveira,F,1978-04-04,2023-11-01,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1182,Hugo Oliveira,F,1994-07-19,2023-07-13,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1183,Ana Santos,M,1957-03-06,2024-10-05,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1184,Hugo Pereira,F,2005-03-25,2025-02-16,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1185,Carla Costa,M,1975-10-20,2023-02-24,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1186,Bruno Ferreira,M,2007-02-28,2025-01-28,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1187,Hugo Ferreira,M,2000-11-15,2025-01-30,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1188,Elena Oliveira,M,1980-04-24,2024-02-22,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1189,Hugo Costa,M,1962-08-06,2023-07-01,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1190,Gisele Rodrigues,F,1998-04-21,2024-11-03,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1191,Elena Oliveira,F,1989-12-06,2023-10-12,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1192,Bruno Santos,M,2003-12-28,2025-01-15,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1193,Bruno Oliveira,M,1996-12-20,2023-09-18,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1194,Fabio Rodrigues,M,1974-11-23,2025-07-28,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1195,Diego Santos,M,1984-10-23,2024-12-14,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1196,Hugo Oliveira,M,1976-06-19,2025-05-31,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1197,Ana Costa,M,2006-05-15,2023-10-08,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1198,Iara Costa,M,1963-01-14,2024-10-27,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1199,Bruno Ferreira,M,2002-08-15,2023-05-08,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1200,João Souza,M,1974-12-29,2024-11-07,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1201,Fabio Santos,M,1966-02-09,2025-09-07,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1202,Iara Ferreira,M,1968-10-10,2023-09-25,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1203,Iara Pereira,F,1963-07-12,2024-09-25,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1204,Bruno Souza,M,2007-03-06,2024-11-23,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1205,Carla Santos,F,1997-03-19,2023-01-11,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1206,Diego Silva,M,1968-06-03,2023-11-06,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1207,Gisele Ferreira,M,1986-11-04,2023-11-08,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1208,João Souza,M,1989-05-29,2023-09-01,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1209,Ana Costa,M,1965-06-30,2023-06-03,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1210,Elena Silva,F,1991-09-04,2023-08-05,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1211,Hugo Santos,F,1973-09-06,2024-05-12,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1212,Carla Costa,F,1996-04-09,2024-09-04,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1213,Ana Pereira,M,1959-03-22,2023-01-12,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1214,Hugo Oliveira,M,1987-10-23,2024-12-27,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1215,Fabio Rodrigues,M,1983-10-16,2023-09-25,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1216,João Silva,M,1961-04-05,2025-02-16,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1217,Gisele Silva,F,1987-10-18,2023-09-07,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1218,Elena Ferreira,F,1960-02-25,2024-05-12,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1219,Gisele Pereira,F,1978-10-03,2023-09-30,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1220,Hugo Oliveira,M,1963-10-12,2023-05-11,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1221,Hugo Santos,M,1964-12-09,2024-06-10,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1222,Ana Souza,M,1983-06-17,2023-06-10,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1223,João Souza,F,1973-07-29,2024-06-29,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1224,Gisele Pereira,M,1976-10-10,2025-01-08,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1225,Gisele Costa,F,1959-03-07,2023-09-02,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1226,Iara Rodrigues,M,1961-04-27,2025-07-14,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1227,Gisele Souza,M,1978-07-21,2023-01-03,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1228,Hugo Costa,M,1990-03-24,2024-10-26,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1229,Ana Pereira,Outro,1999-03-10,2025-06-07,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1230,Diego Souza,M,1971-11-16,2025-09-23,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1231,Fabio Ferreira,M,1962-02-08,2023-01-11,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1232,Bruno Silva,M,2004-11-09,2024-08-06,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1233,Fabio Pereira,M,1962-02-22,2023-04-17,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1234,Iara Santos,F,2005-04-20,2024-05-31,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1235,Fabio Ferreira,F,1999-10-02,2023-01-20,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1236,Ana Pereira,F,1973-07-21,2025-04-29,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1237,Ana Rodrigues,M,1973-04-21,2023-04-30,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1238,Iara Silva,M,1971-10-10,2023-09-24,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1239,Hugo Oliveira,F,1979-08-30,2023-07-14,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1240,Bruno Souza,F,1993-12-01,2024-06-20,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1241,Bruno Rodrigues,F,1970-02-22,2023-09-08,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1242,João Santos,F,1960-04-09,2025-08-22,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1243,Ana Santos,M,1976-03-02,2023-12-15,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1244,João Oliveira,F,1974-12-06,2025-05-08,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1245,Ana Costa,M,1992-07-26,2023-04-02,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1246,Iara Pereira,M,1983-07-16,2023-06-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1247,Fabio Souza,F,1965-12-03,2025-04-05,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1248,Carla Ferreira,M,1998-08-02,2023-12-29,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1249,Gisele Ferreira,F,2006-06-15,2024-08-11,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1250,Gisele Santos,F,1962-08-16,2023-04-23,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1251,Ana Rodrigues,F,1984-01-13,2024-11-05,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1252,Fabio Oliveira,M,1998-05-21,2023-08-12,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1253,Elena Pereira,M,1988-01-25,2024-04-28,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1254,Diego Oliveira,F,1996-06-30,2023-01-22,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1255,Hugo Oliveira,M,1994-07-02,2024-11-17,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1256,Diego Oliveira,F,1997-01-02,2023-01-29,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1257,Ana Costa,F,1976-11-17,2025-09-09,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1258,Bruno Costa,F,2004-09-30,2024-02-01,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1259,Gisele Ferreira,M,1979-10-31,2025-06-02,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1260,Bruno Ferreira,M,1986-12-16,2024-12-07,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1261,Hugo Souza,M,1961-01-26,2025-08-12,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1262,Fabio Oliveira,F,2005-04-25,2024-07-23,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1263,Fabio Ferreira,M,1973-03-01,2025-03-03,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1264,Bruno Ferreira,F,1981-11-02,2023-03-01,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1265,Iara Silva,F,2000-10-21,2023-01-27,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1266,Bruno Souza,F,1979-07-17,2024-06-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1267,João Oliveira,F,1993-08-10,2025-01-03,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1268,Gisele Silva,M,1988-05-28,2024-06-04,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1269,Iara Souza,F,2006-01-28,2024-08-06,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1270,Ana Rodrigues,F,1978-02-28,2023-12-04,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1271,Fabio Rodrigues,M,1983-03-30,2023-04-12,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1272,Hugo Oliveira,M,1984-12-02,2024-02-05,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1273,Iara Costa,F,1992-03-06,2023-03-27,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1274,Diego Silva,M,1976-05-17,2025-05-14,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1275,Ana Silva,M,1978-10-29,2023-04-26,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1276,Fabio Ferreira,F,1969-10-18,2024-11-16,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1277,Bruno Ferreira,F,1964-03-18,2025-05-21,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1278,Carla Oliveira,F,2002-10-27,2023-12-25,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1279,Iara Santos,M,2000-07-14,2025-05-09,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1280,Diego Costa,M,2001-10-16,2023-07-27,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1281,Fabio Santos,M,2005-09-02,2025-03-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1282,João Costa,F,1996-10-14,2024-06-07,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1283,Iara Pereira,M,1989-11-17,2025-01-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1284,Hugo Pereira,M,1976-03-13,2025-03-22,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1285,Fabio Santos,M,1971-01-29,2023-11-08,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1286,Carla Souza,F,1973-10-14,2025-08-07,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1287,Ana Ferreira,F,1978-06-15,2023-06-08,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1288,Hugo Souza,M,1980-01-15,2024-01-17,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1289,Hugo Santos,M,1976-10-01,2024-02-24,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1290,Elena Santos,M,2006-02-06,2024-02-22,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1291,Fabio Ferreira,F,1957-07-17,2023-09-03,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1292,Carla Pereira,F,1987-06-01,2025-05-16,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1293,Hugo Souza,M,1985-03-20,2025-07-28,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1294,Bruno Ferreira,F,1970-12-06,2023-11-14,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1295,Hugo Ferreira,F,2006-05-21,2025-04-17,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1296,Iara Silva,F,1973-05-31,2023-09-18,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1297,Ana Rodrigues,M,1972-03-20,2025-07-07,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1298,João Oliveira,F,1992-10-09,2025-02-16,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1299,Iara Silva,F,2000-07-21,2025-08-29,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1300,Iara Rodrigues,F,1980-09-14,2023-04-17,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1301,Elena Souza,F,1959-09-21,2024-07-09,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1302,Fabio Souza,M,1988-02-12,2024-10-03,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1303,Elena Souza,F,2007-09-10,2023-02-04,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1304,Elena Pereira,F,1975-07-20,2023-07-25,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1305,João Souza,Outro,1984-05-06,2025-03-21,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1306,Bruno Silva,M,1969-06-07,2023-07-03,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1307,Bruno Ferreira,M,1988-08-13,2024-01-19,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1308,Diego Rodrigues,M,2000-02-02,2023-05-09,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1309,Hugo Pereira,F,2003-10-14,2023-06-24,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1310,Ana Ferreira,Outro,1965-09-25,2025-09-04,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1311,João Rodrigues,M,1959-11-04,2025-09-13,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1312,Iara Costa,M,2007-08-13,2023-10-14,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1313,Elena Rodrigues,M,1982-06-07,2025-08-19,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1314,Fabio Ferreira,Outro,1967-10-20,2024-11-18,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1315,Iara Pereira,M,1967-02-27,2024-09-01,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1316,Fabio Costa,M,1989-10-21,2024-02-01,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1317,Gisele Oliveira,M,2007-01-28,2025-04-01,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1318,Iara Pereira,F,1996-06-24,2023-05-23,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1319,Carla Souza,M,1975-03-16,2025-01-05,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1320,Carla Souza,F,1997-01-19,2025-08-25,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1321,João Santos,F,2005-10-14,2025-03-04,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1322,Bruno Costa,M,1979-08-13,2024-10-26,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1323,Elena Santos,M,1993-03-16,2025-01-09,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1324,Gisele Costa,M,1964-12-27,2024-02-11,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1325,Gisele Rodrigues,M,1993-04-04,2025-03-14,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1326,Carla Ferreira,F,1995-04-10,2025-03-12,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1327,Diego Rodrigues,M,1962-12-22,2024-10-30,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1328,Carla Rodrigues,F,1972-08-10,2024-10-19,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1329,Ana Pereira,F,1983-01-28,2024-04-03,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1330,João Ferreira,M,2001-03-02,2023-08-29,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1331,João Rodrigues,Outro,2004-04-19,2025-04-01,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1332,Hugo Pereira,M,1995-09-14,2023-10-04,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1333,Iara Santos,F,1998-09-10,2024-09-28,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1334,Hugo Rodrigues,F,1982-01-31,2023-10-20,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1335,Bruno Rodrigues,M,1969-06-28,2025-05-06,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1336,Carla Souza,F,1958-11-11,2024-11-17,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1337,Carla Souza,M,1987-08-15,2024-03-07,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1338,Carla Souza,F,1997-08-24,2025-08-26,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1339,Iara Costa,F,1973-04-27,2024-08-19,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1340,Carla Santos,F,1969-05-20,2024-04-03,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1341,Hugo Souza,M,2004-06-03,2023-04-12,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1342,Gisele Pereira,F,1968-06-01,2023-12-19,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1343,Carla Silva,F,2002-06-26,2025-02-19,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1344,Bruno Souza,M,1981-08-06,2023-05-29,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1345,Fabio Rodrigues,M,1964-11-20,2023-09-16,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1346,Fabio Santos,Outro,2006-09-27,2023-07-28,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1347,Bruno Ferreira,F,2000-08-11,2025-03-22,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1348,Diego Pereira,F,1977-03-17,2023-11-07,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1349,João Costa,F,1992-12-29,2024-10-18,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1350,Hugo Souza,F,1978-05-22,2023-10-06,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1351,Carla Rodrigues,F,1988-01-17,2023-09-05,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1352,Ana Silva,M,1988-05-25,2025-03-10,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1353,Elena Rodrigues,M,1956-06-07,2024-05-23,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1354,Diego Silva,F,1963-11-13,2023-12-27,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1355,Bruno Oliveira,F,2007-02-10,2025-04-14,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1356,Gisele Santos,M,2002-08-18,2023-12-08,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1357,Elena Souza,F,1961-11-30,2023-02-11,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1358,Bruno Pereira,F,1984-08-07,2024-04-06,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1359,Carla Rodrigues,F,1994-10-29,2024-02-03,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1360,Carla Santos,F,1973-06-23,2025-02-26,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1361,João Silva,M,1975-08-04,2023-04-05,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1362,Ana Costa,M,1962-12-24,2024-10-14,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1363,Bruno Rodrigues,F,2004-12-13,2023-03-20,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1364,Diego Santos,F,2002-08-01,2025-05-10,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1365,Bruno Souza,F,1978-01-09,2024-04-11,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1366,João Silva,F,1997-07-15,2023-09-10,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1367,Hugo Ferreira,Outro,1989-10-04,2023-05-29,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1368,Carla Ferreira,M,1975-04-30,2025-02-10,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1369,Hugo Silva,F,1956-06-12,2025-03-30,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1370,Fabio Ferreira,M,1971-09-22,2024-12-03,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1371,Carla Ferreira,M,1986-12-29,2024-03-30,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1372,Fabio Pereira,F,2006-11-06,2024-12-31,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1373,Fabio Costa,F,1998-03-01,2025-06-06,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1374,Elena Silva,F,1982-05-16,2024-05-07,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1375,Elena Santos,F,1976-08-03,2024-04-09,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1376,Ana Souza,M,1987-03-10,2025-02-06,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1377,Elena Santos,F,1974-11-24,2024-09-15,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1378,Bruno Rodrigues,M,1979-12-03,2023-01-21,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1379,Ana Silva,F,1999-09-02,2023-05-10,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1380,Ana Santos,M,1968-04-14,2023-10-11,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1381,Gisele Santos,F,1986-06-26,2025-08-02,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1382,Ana Souza,F,1963-11-10,2024-02-20,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1383,Ana Ferreira,M,1995-06-24,2024-05-19,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1384,Ana Pereira,M,1973-08-16,2023-01-17,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1385,Diego Pereira,F,1977-05-31,2024-10-12,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1386,Carla Ferreira,M,1957-05-03,2025-02-11,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1387,Fabio Rodrigues,F,1998-12-02,2024-09-14,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1388,Ana Ferreira,M,1968-02-22,2025-08-19,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1389,Bruno Oliveira,F,2004-10-21,2024-09-08,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1390,Iara Santos,F,1958-04-28,2023-05-29,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1391,Hugo Santos,M,1976-01-29,2025-06-30,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1392,Bruno Oliveira,F,1991-07-12,2025-08-26,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1393,Hugo Oliveira,M,1983-09-21,2025-02-28,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1394,Diego Pereira,M,1957-07-29,2023-04-23,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1395,Elena Oliveira,M,1978-09-17,2023-02-08,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1396,Iara Ferreira,F,1995-08-14,2024-09-29,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1397,Hugo Costa,M,1964-06-07,2023-07-22,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1398,Fabio Costa,Outro,1986-01-29,2025-03-07,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1399,Bruno Santos,F,1993-04-02,2024-07-15,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1400,Carla Ferreira,M,1995-04-07,2024-11-13,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1401,Ana Rodrigues,M,1989-12-19,2024-02-17,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1402,Gisele Souza,M,1971-09-27,2023-05-16,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1403,João Rodrigues,M,1964-05-01,2024-05-29,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1404,Diego Rodrigues,F,1966-01-28,2024-05-05,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1405,João Pereira,M,1969-06-11,2025-07-11,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1406,Iara Rodrigues,M,1956-10-25,2023-08-22,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1407,João Costa,M,1994-12-27,2024-09-24,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1408,Elena Silva,M,1992-05-12,2025-01-04,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1409,Fabio Rodrigues,M,2004-09-18,2024-01-16,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1410,Diego Santos,M,1973-08-14,2025-03-15,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1411,Elena Costa,M,1987-06-24,2023-02-07,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1412,Diego Souza,M,1988-04-13,2023-04-29,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1413,Diego Pereira,M,1984-05-28,2023-12-02,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1414,Gisele Souza,M,1984-08-03,2024-10-31,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1415,Carla Ferreira,F,1989-03-12,2023-11-15,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1416,Carla Costa,M,1996-12-10,2023-11-10,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1417,Elena Ferreira,M,1989-07-22,2025-01-09,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1418,Gisele Silva,F,1990-02-26,2024-09-19,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1419,Iara Souza,F,1975-07-01,2023-09-17,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1420,Fabio Ferreira,M,1997-01-15,2023-05-17,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1421,Elena Silva,M,1998-11-20,2025-02-09,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1422,Ana Costa,M,1963-07-04,2025-04-28,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1423,Carla Pereira,F,1973-03-19,2025-07-10,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1424,Elena Pereira,F,1988-11-23,2025-07-05,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1425,Elena Souza,F,2004-09-03,2025-01-12,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1426,Bruno Oliveira,F,1972-02-24,2025-03-19,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1427,Iara Ferreira,M,1983-12-08,2024-12-25,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1428,Hugo Souza,F,1986-06-06,2025-06-21,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1429,Gisele Souza,M,1998-02-07,2024-02-04,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1430,João Silva,M,1964-02-23,2025-03-23,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1431,Hugo Oliveira,F,1965-12-27,2023-07-15,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1432,Ana Oliveira,F,1993-08-03,2025-01-29,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1433,Diego Rodrigues,M,2001-08-07,2024-05-06,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1434,Iara Pereira,Outro,1990-11-03,2023-05-11,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1435,João Pereira,M,1989-01-31,2025-05-02,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1436,Iara Pereira,F,1958-09-24,2024-12-08,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1437,João Silva,M,1975-10-26,2024-10-25,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1438,Bruno Souza,M,1967-10-23,2023-06-26,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1439,Bruno Costa,F,1974-11-11,2025-04-21,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1440,Elena Santos,M,2006-02-11,2023-04-08,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1441,Carla Pereira,M,1996-01-31,2025-07-24,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1442,João Oliveira,F,1959-12-18,2024-01-26,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1443,Diego Santos,F,1962-06-18,2024-10-16,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1444,Hugo Pereira,M,1956-10-19,2025-02-20,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1445,Iara Rodrigues,Outro,1982-11-08,2025-07-09,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1446,Carla Rodrigues,F,1966-06-04,2025-02-12,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1447,Diego Ferreira,M,1958-07-06,2023-11-03,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1448,Hugo Souza,M,1984-03-21,2023-06-13,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1449,Elena Rodrigues,M,1961-05-25,2023-04-14,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1450,João Souza,M,1996-04-21,2025-04-27,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1451,Carla Oliveira,F,1968-06-10,2023-05-09,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1452,Hugo Pereira,M,1960-10-03,2024-09-04,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1453,Fabio Costa,F,1976-08-30,2024-06-07,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1454,Gisele Rodrigues,Outro,1963-12-28,2024-10-31,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1455,Bruno Souza,Outro,1977-11-16,2023-09-04,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1456,Elena Silva,F,2004-04-01,2025-07-04,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1457,João Costa,F,1973-07-10,2024-04-20,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1458,Iara Souza,M,2002-06-11,2024-07-25,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1459,Iara Oliveira,M,1964-01-19,2024-04-01,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1460,Hugo Santos,M,1996-03-29,2025-09-12,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1461,Elena Souza,M,1975-08-05,2024-11-22,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1462,Iara Oliveira,F,1997-04-05,2023-06-25,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1463,Fabio Silva,M,1997-01-24,2025-02-21,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1464,Carla Silva,F,1992-11-05,2024-04-27,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1465,Hugo Souza,M,2002-06-21,2024-10-21,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
-CUST-1466,Ana Rodrigues,F,2006-01-03,2024-03-17,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1467,Fabio Ferreira,F,1973-03-08,2024-09-20,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1468,Diego Costa,M,1991-12-03,2024-01-28,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1469,Bruno Oliveira,M,1981-10-14,2023-12-20,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1470,Fabio Costa,M,2000-07-02,2024-06-30,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1471,Diego Silva,F,1984-04-17,2023-06-03,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1472,Gisele Costa,M,1989-09-23,2025-08-04,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1473,João Oliveira,M,1988-07-22,2023-11-23,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1474,Iara Oliveira,M,1989-09-13,2025-07-22,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1475,Diego Rodrigues,F,1999-02-23,2024-11-03,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1476,Diego Silva,M,1973-02-15,2023-08-10,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1477,Diego Oliveira,M,2001-01-06,2025-05-22,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1478,Fabio Silva,Outro,1992-11-09,2025-05-30,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1479,Carla Oliveira,Outro,1958-05-09,2024-10-22,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1480,Diego Pereira,M,1975-06-28,2024-03-20,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1481,Diego Oliveira,M,1984-11-08,2023-01-08,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1482,Gisele Ferreira,F,1996-07-19,2024-07-12,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1483,Iara Oliveira,M,1979-05-27,2024-06-16,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30180-008,-19.9375,-43.9378
-CUST-1484,Fabio Souza,M,1957-09-09,2025-04-02,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1485,Diego Costa,M,2005-01-30,2024-05-06,RJ,Rio de Janeiro,"Praça XV de Novembro, Centro",20010-010,-22.9068,-43.1729
-CUST-1486,Hugo Santos,F,1967-05-05,2024-08-06,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1487,Fabio Costa,M,1990-11-11,2025-02-18,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1488,João Oliveira,F,1966-10-16,2024-09-12,SP,São Paulo,"Praça da Sé, Sé",01001-000,-23.5505,-46.6333
-CUST-1489,Carla Rodrigues,F,1960-05-26,2025-05-01,GO,Goiânia,"Museu de Arte de Goiânia, Praça do Bandeirante",74230-110,-16.6932,-49.2568
-CUST-1490,Ana Pereira,M,1959-03-23,2025-05-30,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1491,Hugo Oliveira,M,1975-10-17,2025-03-17,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.5949,-48.5495
-CUST-1492,Elena Silva,F,1966-01-19,2025-04-01,RS,Porto Alegre,"Praça da Matriz, Centro Histórico",90040-060,-30.0346,-51.2228
-CUST-1493,Iara Silva,M,1959-12-09,2024-06-12,GO,Goiânia,"Jardim Botânico de Goiânia, Jardim América",74180-150,-16.6456,-49.1954
-CUST-1494,Elena Oliveira,M,1967-12-09,2024-02-01,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.7281,-49.28
-CUST-1495,Carla Oliveira,F,1962-12-04,2023-01-01,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.6781,-49.2559
-CUST-1496,Carla Souza,M,1963-04-25,2024-03-20,GO,Goiânia,"Praça Cívica, Monumento às Três Raças",74001-300,-16.6783,-49.2538
-CUST-1497,Ana Pereira,M,1980-05-08,2024-03-28,GO,Goiânia,"Centro Cultural Oscar Niemeyer, Setor Oeste",74010-010,-16.6911,-49.271
-CUST-1498,Iara Oliveira,F,1978-06-13,2024-11-19,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40020-005,-12.9714,-38.5014
-CUST-1499,Diego Santos,F,2004-07-30,2024-09-30,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.4297,-49.2677
+CUST-1000,Gisele Souza,M,1965-11-06,2024-12-01,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.59545,-48.548985
+CUST-1001,Gisele Santos,F,1997-10-13,2024-01-08,PR,Curitiba,"Memorial de Curitiba, Centro",80020-160,-25.430712,-49.270481
+CUST-1002,Hugo Rodrigues,M,2006-01-28,2024-05-06,RS,Porto Alegre,"Museu de Ciências e Tecnologia PUCRS, Partenon",90619-900,-30.049195,-51.178829
+CUST-1003,Fabio Santos,F,1987-08-04,2024-04-04,RJ,Rio de Janeiro,"Praia de São Conrado, São Conrado",22610-010,-22.997021,-43.261233
+CUST-1004,Fabio Pereira,F,1959-11-21,2024-05-25,RJ,Rio de Janeiro,"Arcos da Lapa, Lapa",20241-070,-22.91122,-43.17946
+CUST-1005,Carla Souza,M,2005-03-06,2024-10-08,SC,Florianópolis,"Cachoeira do Rio Tavares, Rio Tavares",88048-100,-27.652181,-48.486925
+CUST-1006,Iara Ferreira,F,1983-03-03,2023-01-14,RJ,Rio de Janeiro,"Praia de São Conrado, São Conrado",22610-010,-22.997138,-43.260461
+CUST-1007,João Silva,F,2006-02-01,2023-04-02,BA,Salvador,"Igreja do Carmo, Centro Histórico",40026-160,-12.971925,-38.510962
+CUST-1008,Gisele Souza,M,1961-12-14,2023-07-25,SP,São Paulo,"Expo Center Norte, Vila Guilherme",02055-000,-23.516332,-46.624117
+CUST-1009,Diego Santos,M,2006-11-14,2023-04-16,PR,Curitiba,"Museu do Automóvel, Capão da Imbuia",82810-080,-25.456503,-49.23754
+CUST-1010,Fabio Pereira,Outro,1982-11-30,2023-06-11,RJ,Rio de Janeiro,"Escadaria Selarón, Lapa",20241-110,-22.915276,-43.177813
+CUST-1011,Diego Costa,M,1993-06-09,2023-09-09,SP,São Paulo,"Parque da Água Branca, Água Branca",01282-000,-23.518444,-46.668989
+CUST-1012,Hugo Pereira,F,1990-11-19,2025-03-02,RJ,Rio de Janeiro,"Forte de Copacabana, Copacabana",22070-011,-22.988725,-43.185287
+CUST-1013,Iara Souza,M,1963-12-08,2023-06-06,BA,Salvador,"Jardim dos Namorados, Pituba",41830-000,-13.0037,-38.489353
+CUST-1014,Ana Silva,Outro,1984-09-05,2024-10-09,GO,Goiânia,"Parque Lozandes, Jardim Goiás",74884-010,-16.740249,-49.256078
+CUST-1015,Carla Silva,M,1973-04-01,2024-01-14,SC,Florianópolis,"Praia de Solidão, Pântano do Sul",88066-000,-27.713313,-48.495658
+CUST-1016,João Ferreira,M,1980-08-31,2023-07-20,GO,Goiânia,"Praça do Sol, Setor Oeste",74040-070,-16.685586,-49.264859
+CUST-1017,Bruno Silva,F,1985-11-11,2024-12-28,SC,Florianópolis,"Praia do Moçambique, São João do Rio Vermelho",88058-001,-27.520565,-48.388208
+CUST-1018,Carla Souza,M,1981-12-09,2025-08-18,MG,Belo Horizonte,"Museu de Arte da Pampulha, Pampulha",31365-000,-19.857077,-43.984593
+CUST-1019,Elena Ferreira,M,2008-01-02,2023-08-06,BA,Salvador,"Igreja do Carmo, Centro Histórico",40026-160,-12.969462,-38.510229
+CUST-1020,Gisele Oliveira,M,1993-01-29,2024-07-07,PR,Curitiba,"Memorial de Curitiba, Centro",80020-160,-25.428814,-49.268144
+CUST-1021,Carla Ferreira,M,1959-11-28,2023-04-06,PR,Curitiba,"Linha Turismo (Terminal Rodoferroviário), Centro",80020-070,-25.430709,-49.269283
+CUST-1022,Elena Ferreira,M,1993-07-23,2024-06-24,PR,Curitiba,"Teatro Guaíra, Centro",80010-200,-25.423859,-49.266429
+CUST-1023,Gisele Oliveira,M,1980-11-08,2024-11-12,SC,Florianópolis,"Parque da Luz, Centro",88020-040,-27.594056,-48.553063
+CUST-1024,Iara Pereira,M,1980-09-27,2024-07-09,PR,Curitiba,"Bosque do Papa João Paulo II, Colônia Italiana",82510-070,-25.387743,-49.247513
+CUST-1025,João Ferreira,M,1969-07-10,2023-08-13,SP,São Paulo,"Rua Oscar Freire, Jardins",01426-001,-23.562218,-46.669012
+CUST-1026,Iara Oliveira,F,1956-05-31,2023-09-16,BA,Salvador,"Farol da Barra, Barra",40140-130,-13.009624,-38.531196
+CUST-1027,Fabio Rodrigues,M,1971-06-05,2025-03-29,RJ,Rio de Janeiro,"Museu de Arte do Rio, Porto Maravilha",20081-240,-22.896639,-43.177009
+CUST-1028,Hugo Ferreira,F,1976-10-10,2024-04-16,SP,São Paulo,"Zoológico de São Paulo, Ipiranga",04301-905,-23.650068,-46.616635
+CUST-1029,Diego Silva,F,1956-04-26,2024-05-24,BA,Salvador,"Pelourinho, Centro Histórico",40026-010,-12.971578,-38.51011
+CUST-1030,Bruno Oliveira,F,1959-10-30,2024-11-29,SP,São Paulo,"Horto Florestal, Horto Florestal",02377-000,-23.47035,-46.623073
+CUST-1031,Bruno Santos,F,1985-06-02,2023-08-13,SP,São Paulo,"Centro Cultural São Paulo, Paraíso",01308-090,-23.570372,-46.633496
+CUST-1032,Carla Costa,F,1964-06-13,2024-11-02,RS,Porto Alegre,"Parque Moinhos de Vento, Moinhos de Vento",90430-000,-30.024034,-51.197716
+CUST-1033,Gisele Souza,F,1991-05-01,2023-10-21,GO,Goiânia,"Museu do Oriente, Setor Bueno",74825-440,-16.706728,-49.26082
+CUST-1034,Elena Souza,Outro,1986-05-17,2023-05-24,SP,São Paulo,"Teatro Municipal de São Paulo, Centro",01019-900,-23.545851,-46.641266
+CUST-1035,Iara Souza,M,1992-01-27,2025-02-09,PR,Curitiba,"Planetário de Curitiba, Boqueirão",81530-000,-25.483913,-49.252199
+CUST-1036,Diego Oliveira,M,1989-08-16,2025-05-13,BA,Salvador,"Praia do Rio Vermelho, Rio Vermelho",41940-000,-13.006806,-38.499719
+CUST-1037,Diego Silva,M,1969-02-12,2025-05-21,SP,São Paulo,"Pinacoteca do Estado, Luz",01120-010,-23.534534,-46.634495
+CUST-1038,Iara Silva,F,1977-03-22,2024-09-02,BA,Salvador,"Parque do Abaeté, Itapoã",41635-185,-12.942377,-38.376676
+CUST-1039,João Rodrigues,M,1960-01-17,2025-06-15,GO,Goiânia,"Parque Cascavel, Setor Cascavel",74680-030,-16.717985,-49.248071
+CUST-1040,Elena Pereira,M,1999-05-21,2023-04-09,MG,Belo Horizonte,"Parque Jardim América, Jaraguá",31270-050,-19.874715,-43.953099
+CUST-1041,Carla Souza,M,1975-09-21,2024-08-09,SP,São Paulo,"Arena Corinthians, Itaquera",08295-005,-23.544128,-46.473624
+CUST-1042,Hugo Souza,M,1988-05-02,2023-08-15,GO,Goiânia,"Parque Cascavel, Setor Cascavel",74680-030,-16.718176,-49.248656
+CUST-1043,Iara Oliveira,Outro,1990-02-07,2024-12-06,RS,Porto Alegre,"Parque Farroupilha, Cidade Baixa",90035-140,-30.038092,-51.218064
+CUST-1044,Carla Rodrigues,Outro,1972-08-07,2024-08-02,SP,São Paulo,"Parque da Água Branca, Água Branca",01282-000,-23.519249,-46.670119
+CUST-1045,Elena Rodrigues,M,2000-08-26,2023-07-14,SP,São Paulo,"Jardim Botânico de São Paulo, Ipiranga",04301-012,-23.641755,-46.623354
+CUST-1046,Ana Rodrigues,F,1957-12-28,2025-01-19,RS,Porto Alegre,"Parque Moinhos de Vento, Moinhos de Vento",90430-000,-30.024196,-51.197585
+CUST-1047,Fabio Costa,F,2000-03-31,2023-01-27,RJ,Rio de Janeiro,"Praia Vermelha, Urca",22290-160,-22.953261,-43.165496
+CUST-1048,Elena Costa,M,1961-03-07,2025-03-26,MG,Belo Horizonte,"Parque Estadual do Rola-Moça, Nova Lima",32220-000,-20.017643,-44.031896
+CUST-1049,Diego Oliveira,M,1991-07-23,2023-08-08,RS,Porto Alegre,"Estádio Beira-Rio, Praia de Belas",90110-250,-30.065246,-51.234622
+CUST-1050,Elena Costa,F,1967-12-11,2023-10-07,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.596819,-48.549527
+CUST-1051,Ana Costa,Outro,1973-07-11,2025-09-19,PR,Curitiba,"Parque Tingui, São João",82300-060,-25.375464,-49.311455
+CUST-1052,Elena Rodrigues,M,2005-09-01,2023-01-18,SP,São Paulo,"Museu de Arte Sacra, Luz",01120-080,-23.543222,-46.638959
+CUST-1053,João Ferreira,M,2005-01-12,2024-11-16,GO,Goiânia,"Parque Mutirama, Setor Coimbra",74055-140,-16.691562,-49.264525
+CUST-1054,Bruno Rodrigues,M,1985-09-07,2023-06-04,RJ,Rio de Janeiro,"Pedra Bonita, Barra da Tijuca",22631-050,-22.990057,-43.273348
+CUST-1055,Bruno Santos,M,1975-03-22,2023-09-03,GO,Goiânia,"Complexo Agrourbano Hélio Seixo de Britto, Setor Pedro Ludovico",74645-000,-16.704372,-49.269119
+CUST-1056,Gisele Pereira,F,1982-01-23,2025-03-28,SP,São Paulo,"Pinacoteca do Estado, Luz",01120-010,-23.532595,-46.631608
+CUST-1057,Hugo Pereira,F,2001-03-01,2023-02-05,SC,Florianópolis,"Praia da Armação, Armação do Pântano do Sul",88066-000,-27.737288,-48.507757
+CUST-1058,Diego Silva,F,1962-08-29,2025-08-29,MG,Belo Horizonte,"Parque das Mangabeiras, Serra",30315-970,-19.972991,-43.928766
+CUST-1059,Gisele Ferreira,F,2006-03-25,2024-12-27,BA,Salvador,"Igreja do Carmo, Centro Histórico",40026-160,-12.970616,-38.509542
+CUST-1060,Fabio Oliveira,F,1986-03-04,2024-07-23,RS,Porto Alegre,"Jardim Botânico de Porto Alegre, Jardim Botânico",90690-000,-30.059991,-51.172766
+CUST-1061,Ana Souza,F,1993-11-17,2024-03-19,SC,Florianópolis,"Morro da Cruz, Centro",88020-410,-27.58262,-48.54157
+CUST-1062,Ana Rodrigues,M,1964-10-01,2023-01-05,BA,Salvador,"Museu Afro-Brasileiro, Centro Histórico",40025-010,-12.973419,-38.50925
+CUST-1063,Diego Costa,F,1956-02-04,2023-02-16,MG,Belo Horizonte,"Bairro Santa Tereza, Santa Tereza",31010-390,-19.922618,-43.918174
+CUST-1064,Gisele Rodrigues,M,1995-09-08,2023-04-16,RS,Porto Alegre,"Santuário Nossa Senhora de Fátima, Rio Branco",90420-160,-30.049257,-51.198744
+CUST-1065,Carla Silva,F,1989-10-11,2023-02-27,BA,Salvador,"Forte de Santa Maria, Barra",40140-100,-13.011311,-38.531081
+CUST-1066,João Pereira,F,1985-09-07,2024-01-28,PR,Curitiba,"Jardim Botânico de Curitiba, Jardim Botânico",82210-180,-25.44224,-49.234218
+CUST-1067,Elena Silva,F,2007-05-13,2025-03-12,GO,Goiânia,"Parque Areião, Setor Pedro Ludovico",74130-010,-16.699035,-49.271065
+CUST-1068,Fabio Rodrigues,F,1963-04-21,2023-07-08,BA,Salvador,"Praça Castro Alves, Centro",40020-010,-12.978282,-38.518083
+CUST-1069,Elena Costa,M,2005-10-23,2023-06-03,GO,Goiânia,"Feira Hippie, Praça do Sol",74000-100,-16.682146,-49.255311
+CUST-1070,Carla Pereira,F,1979-06-08,2023-03-10,BA,Salvador,"Praça Castro Alves, Centro",40020-010,-12.978607,-38.520014
+CUST-1071,Ana Costa,M,1956-06-29,2025-06-30,RJ,Rio de Janeiro,"Museu do Folclore Edison Carneiro, Catete",22221-040,-22.926285,-43.176994
+CUST-1072,João Rodrigues,M,1972-04-01,2023-09-11,RS,Porto Alegre,"Mercado Público Central, Centro Histórico",90010-150,-30.030051,-51.227075
+CUST-1073,Elena Ferreira,F,2003-09-30,2025-03-12,PR,Curitiba,"Bosque do Papa João Paulo II, Colônia Italiana",82510-070,-25.38823,-49.247025
+CUST-1074,João Santos,M,1976-05-02,2023-11-21,SC,Florianópolis,"Praia da Galheta, Lagoa da Conceição",88062-300,-27.590937,-48.429587
+CUST-1075,Diego Rodrigues,F,2006-07-31,2024-04-19,PR,Curitiba,"Parque Tingui, São João",82300-060,-25.374982,-49.313687
+CUST-1076,Hugo Souza,F,1975-07-20,2024-03-02,SC,Florianópolis,"Ilha do Campeche, Campeche",88063-000,-27.69937,-48.471772
+CUST-1077,Carla Silva,Outro,1998-11-27,2024-07-09,SC,Florianópolis,"Ribeirão da Ilha, Ribeirão da Ilha",88064-001,-27.765784,-48.548641
+CUST-1078,Bruno Pereira,F,1973-06-14,2025-04-28,RJ,Rio de Janeiro,"Forte de Copacabana, Copacabana",22070-011,-22.987923,-43.186373
+CUST-1079,Hugo Pereira,M,1982-09-20,2024-09-08,BA,Salvador,"Elevador Lacerda, Centro",40015-000,-12.9726,-38.515444
+CUST-1080,Diego Santos,M,1963-11-04,2024-02-17,GO,Goiânia,"Praça do Sol, Setor Oeste",74040-070,-16.686606,-49.263735
+CUST-1081,Diego Silva,M,1972-01-24,2024-04-01,GO,Goiânia,"Memorial do Cerrado PUC Goiás, Setor Universitário",74605-050,-16.690616,-49.256731
+CUST-1082,Carla Silva,M,1972-10-11,2024-10-25,BA,Salvador,"Praia de Ondina, Ondina",40170-010,-13.012783,-38.518843
+CUST-1083,Elena Souza,F,1995-04-06,2023-08-05,MG,Belo Horizonte,"Museu de Arte da Pampulha, Pampulha",31365-000,-19.857524,-43.98246
+CUST-1084,Iara Costa,M,1988-06-08,2023-12-08,SC,Florianópolis,"Barra da Lagoa, Barra da Lagoa",88061-400,-27.568964,-48.426649
+CUST-1085,Carla Silva,F,1967-11-02,2023-09-22,BA,Salvador,"Praia do Rio Vermelho, Rio Vermelho",41940-000,-13.009447,-38.501815
+CUST-1086,Diego Oliveira,M,1992-11-02,2023-04-09,PR,Curitiba,"Museu de Arte Contemporânea do Paraná, Centro",80020-090,-25.425911,-49.271449
+CUST-1087,Iara Souza,M,1972-11-23,2023-05-31,GO,Goiânia,"Lago das Rosas, Setor Oeste",74250-040,-16.68869,-49.254508
+CUST-1088,Iara Ferreira,F,1966-07-15,2025-07-23,RS,Porto Alegre,"Parque Chico Mendes, Belém Novo",91791-440,-30.056465,-51.16458
+CUST-1089,João Pereira,M,1979-05-24,2025-04-22,RJ,Rio de Janeiro,"Parque das Ruínas, Santa Teresa",20241-085,-22.912142,-43.179743
+CUST-1090,Iara Santos,M,1991-05-03,2023-08-18,BA,Salvador,"Elevador Lacerda, Centro",40015-000,-12.973017,-38.514549
+CUST-1091,Hugo Santos,F,1981-09-13,2023-07-13,SC,Florianópolis,"Praia de Canasvieiras, Canasvieiras",88054-400,-27.429359,-48.465018
+CUST-1092,Elena Costa,Outro,1960-01-19,2025-04-12,RS,Porto Alegre,"Museu do Trabalho, Centro Histórico",90010-181,-30.032567,-51.230892
+CUST-1093,Diego Silva,M,1983-03-18,2023-05-12,PR,Curitiba,"Teatro Guaíra, Centro",80010-200,-25.425685,-49.263647
+CUST-1094,Fabio Souza,F,1964-07-19,2023-06-16,MG,Belo Horizonte,"Zoológico de BH, Pampulha",31365-450,-19.862256,-43.965128
+CUST-1095,João Santos,F,2005-07-18,2024-10-14,RJ,Rio de Janeiro,"Forte de Copacabana, Copacabana",22070-011,-22.989353,-43.188701
+CUST-1096,João Souza,F,1968-01-16,2024-01-22,SC,Florianópolis,"Praia dos Ingleses, Ingleses do Rio Vermelho",88058-001,-27.43161,-48.393876
+CUST-1097,Iara Ferreira,F,1983-03-07,2025-07-17,RS,Porto Alegre,"Museu de Ciências e Tecnologia PUCRS, Partenon",90619-900,-30.046785,-51.179767
+CUST-1098,Elena Costa,M,1963-08-11,2023-06-22,SC,Florianópolis,"Universidade Federal de Santa Catarina, Trindade",88040-900,-27.59995,-48.520259
+CUST-1099,Elena Rodrigues,M,1997-05-02,2023-08-17,PR,Curitiba,"Parque Tingui, São João",82300-060,-25.376293,-49.312135
+CUST-1100,Carla Oliveira,Outro,1990-11-25,2023-08-21,SP,São Paulo,"Parque Ibirapuera, Vila Mariana",04094-050,-23.587941,-46.656823
+CUST-1101,Ana Pereira,M,2005-08-16,2024-04-15,SP,São Paulo,"Estação da Luz, Luz",01120-000,-23.53463,-46.633084
+CUST-1102,João Rodrigues,F,1970-08-13,2024-01-08,GO,Goiânia,"Teatro Goiânia, Centro",74000-040,-16.684675,-49.261391
+CUST-1103,João Souza,M,2000-07-06,2023-11-12,RJ,Rio de Janeiro,"Praia de Copacabana, Copacabana",22070-011,-22.969737,-43.181971
+CUST-1104,Elena Silva,F,1981-08-21,2023-07-20,SP,São Paulo,"Parque Estadual do Jaraguá, Jaraguá",05161-000,-23.453407,-46.767186
+CUST-1105,Elena Souza,M,1960-12-03,2024-06-30,SC,Florianópolis,"Morro da Cruz, Centro",88020-410,-27.582693,-48.541415
+CUST-1106,Fabio Santos,F,2003-03-11,2025-07-09,RJ,Rio de Janeiro,"Jardim Botânico, Jardim Botânico",22460-030,-22.965819,-43.223677
+CUST-1107,João Rodrigues,M,1964-01-13,2023-04-29,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.728434,-49.280318
+CUST-1108,Ana Costa,M,1976-05-20,2023-06-26,MG,Belo Horizonte,"Parque Municipal Américo R. Giannetti, Centro",30130-010,-19.929319,-43.932205
+CUST-1109,Elena Santos,F,1986-03-03,2025-03-05,SP,São Paulo,"Rua Oscar Freire, Jardins",01426-001,-23.564061,-46.668982
+CUST-1110,Ana Santos,F,2007-03-02,2024-06-01,PR,Curitiba,"Largo da Ordem, São Francisco",80410-120,-25.412565,-49.261173
+CUST-1111,Ana Pereira,Outro,1970-05-02,2024-03-12,BA,Salvador,"Mercado Modelo, Comércio",40015-080,-12.975327,-38.510956
+CUST-1112,Elena Pereira,M,1998-10-18,2023-05-25,SC,Florianópolis,"Praia do Santinho, Ingleses do Rio Vermelho",88058-100,-27.408884,-48.379671
+CUST-1113,Iara Costa,F,1963-06-27,2025-02-10,RS,Porto Alegre,"Casarão Kramer, Centro Histórico",90010-050,-30.029056,-51.227025
+CUST-1114,Ana Silva,M,1974-02-01,2023-04-05,GO,Goiânia,"Palácio das Esmeraldas, Centro",74000-010,-16.682249,-49.259003
+CUST-1115,Gisele Santos,M,2005-03-07,2023-09-25,SP,São Paulo,"Arena Corinthians, Itaquera",08295-005,-23.547495,-46.4751
+CUST-1116,Fabio Souza,M,1978-05-08,2025-04-04,SP,São Paulo,"Beco do Batman, Vila Madalena",05435-000,-23.557298,-46.690944
+CUST-1117,Gisele Ferreira,M,1994-11-05,2023-03-16,MG,Belo Horizonte,"Parque Estadual do Rola-Moça, Nova Lima",32220-000,-20.017682,-44.032838
+CUST-1118,Gisele Costa,M,1974-03-27,2023-11-02,RJ,Rio de Janeiro,"Praia Vermelha, Urca",22290-160,-22.952756,-43.164974
+CUST-1119,Bruno Costa,M,1957-03-17,2023-09-06,RS,Porto Alegre,"Orla do Guaíba, Ipanema",90820-000,-30.051297,-51.240819
+CUST-1120,Ana Rodrigues,M,1978-05-12,2023-04-16,MG,Belo Horizonte,"Parque Jardim América, Jaraguá",31270-050,-19.874073,-43.951971
+CUST-1121,Ana Pereira,M,1998-07-09,2024-02-05,RJ,Rio de Janeiro,"Parque Nacional da Tijuca, Alto da Boa Vista",20531-590,-22.931852,-43.288912
+CUST-1122,Ana Souza,F,2003-12-05,2025-02-12,SC,Florianópolis,"Praia da Joaquina, Lagoa da Conceição",88062-400,-27.646445,-48.450209
+CUST-1123,Bruno Pereira,F,1965-05-22,2025-08-28,GO,Belo Horizonte,"Museu de Arte e Ofícios, Centro",30160-010,-19.916586,-43.930592
+CUST-1124,Iara Ferreira,F,1978-01-06,2025-06-18,GO,Goiânia,"Museu Antropológico UFG, Setor Universitário",74605-220,-16.693745,-49.263981
+CUST-1125,Diego Rodrigues,F,1976-07-03,2024-10-28,SC,Florianópolis,"Cachoeira do Rio Tavares, Rio Tavares",88048-100,-27.652189,-48.48555
+CUST-1126,Bruno Pereira,F,1989-04-09,2023-01-05,RJ,Rio de Janeiro,"Praia de Ipanema, Ipanema",22420-030,-22.985743,-43.198474
+CUST-1127,João Pereira,F,2003-01-07,2024-10-06,SP,São Paulo,"Memorial da América Latina, Barra Funda",01153-000,-23.529038,-46.661119
+CUST-1128,João Costa,F,1994-06-06,2025-03-23,GO,Belo Horizonte,"Cidade Administrativa de MG, Gameleira",31017-900,-19.889049,-43.963605
+CUST-1129,Iara Santos,M,1986-05-18,2023-02-25,RS,Porto Alegre,"Parque Moinhos de Vento, Moinhos de Vento",90430-000,-30.022353,-51.19789
+CUST-1130,Ana Santos,M,2000-09-17,2025-05-16,SC,Florianópolis,"Costa da Lagoa, Lagoa da Conceição",88062-480,-27.577515,-48.446217
+CUST-1131,Diego Ferreira,M,1986-12-29,2024-04-18,PR,Curitiba,"Parque Tingui, São João",82300-060,-25.376069,-49.310638
+CUST-1132,Gisele Costa,F,1963-08-17,2024-06-09,MG,Belo Horizonte,"Igreja do Rosário dos Pretos, Centro",30110-030,-19.921134,-43.937437
+CUST-1133,Hugo Oliveira,M,1961-05-25,2023-12-29,BA,Salvador,"Praia do Buracão, Itaigara",41810-500,-13.025675,-38.474586
+CUST-1134,Bruno Santos,F,1958-01-04,2023-07-11,SP,São Paulo,"Liberdade, Liberdade",01506-000,-23.558267,-46.637154
+CUST-1135,Gisele Pereira,F,1969-04-18,2023-08-19,RS,Porto Alegre,"Orla do Guaíba, Ipanema",90820-000,-30.049923,-51.241151
+CUST-1136,João Costa,F,1991-12-29,2023-07-31,SP,São Paulo,"Expo Center Norte, Vila Guilherme",02055-000,-23.515408,-46.624125
+CUST-1137,Diego Santos,M,1963-08-25,2023-04-21,PR,Curitiba,"Zoológico de Curitiba, Bairro Alto",82820-020,-25.526388,-49.310535
+CUST-1138,Fabio Santos,M,1968-05-25,2024-08-17,RJ,Rio de Janeiro,"Praia de São Conrado, São Conrado",22610-010,-22.998398,-43.262805
+CUST-1139,Iara Pereira,F,1982-02-27,2025-01-07,GO,Belo Horizonte,"Parque Carlos Prates, Lagoinha",30710-060,-19.908342,-43.948208
+CUST-1140,Hugo Oliveira,Outro,1971-04-02,2024-03-12,RS,Porto Alegre,"Largo Glênio Peres, Centro Histórico",90010-150,-30.030843,-51.226851
+CUST-1141,Elena Costa,F,1961-01-14,2023-12-16,MG,Belo Horizonte,"Cidade Administrativa de MG, Gameleira",31017-900,-19.889799,-43.964109
+CUST-1142,Hugo Ferreira,M,2005-05-09,2024-06-26,GO,Goiânia,"Praça Tamandaré, Setor Oeste",74040-010,-16.684625,-49.263747
+CUST-1143,Elena Souza,Outro,2002-02-20,2024-04-12,PR,Curitiba,"Catedral Basílica de Curitiba, Centro",80010-130,-25.428611,-49.269804
+CUST-1144,Diego Ferreira,M,1959-10-17,2024-05-18,RS,Porto Alegre,"Estádio Beira-Rio, Praia de Belas",90110-250,-30.064833,-51.233596
+CUST-1145,Carla Costa,M,1993-06-21,2024-01-27,RJ,Rio de Janeiro,"Museu Nacional, São Cristóvão",20940-040,-22.907382,-43.223421
+CUST-1146,Carla Pereira,M,2002-09-12,2025-04-15,MG,Belo Horizonte,"Praça Diogo de Vasconcelos, Savassi",30130-170,-19.940248,-43.933607
+CUST-1147,Diego Silva,M,1996-11-23,2023-01-01,RJ,Rio de Janeiro,"Vista Chinesa, Alto da Boa Vista",22461-320,-22.97111,-43.245287
+CUST-1148,Fabio Pereira,M,1972-02-17,2023-09-16,SP,São Paulo,"Parque Estadual do Jaraguá, Jaraguá",05161-000,-23.453964,-46.76534
+CUST-1149,Fabio Santos,F,2003-08-23,2023-06-21,RJ,Rio de Janeiro,"Forte de Copacabana, Copacabana",22070-011,-22.987889,-43.185725
+CUST-1150,Hugo Santos,F,1971-02-21,2025-02-23,SP,São Paulo,"Expo Center Norte, Vila Guilherme",02055-000,-23.516592,-46.625172
+CUST-1151,Hugo Costa,F,1978-10-11,2025-03-27,SC,Florianópolis,"Cachoeira do Rio Tavares, Rio Tavares",88048-100,-27.651902,-48.486405
+CUST-1152,Bruno Costa,M,1997-08-25,2025-07-18,PR,Curitiba,"Museu do Automóvel, Capão da Imbuia",82810-080,-25.45421,-49.234928
+CUST-1153,Carla Oliveira,M,1986-11-13,2025-04-11,SC,Florianópolis,"Ponte Hercílio Luz, Centro",88020-200,-27.595277,-48.539627
+CUST-1154,Hugo Oliveira,M,1994-02-28,2025-03-08,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30140-010,-19.938604,-43.937038
+CUST-1155,Elena Pereira,M,1994-11-09,2023-05-12,SP,São Paulo,"Rua Oscar Freire, Jardins",01426-001,-23.564246,-46.670744
+CUST-1156,João Silva,M,2000-03-19,2024-09-07,RS,Porto Alegre,"Armazéns do Porto, Centro Histórico",90010-030,-30.027864,-51.228957
+CUST-1157,Carla Pereira,F,1985-11-10,2023-05-23,SP,São Paulo,"Parque Buenos Aires, Higienópolis",01232-010,-23.539576,-46.668787
+CUST-1158,Iara Silva,M,2006-03-04,2024-09-07,GO,Goiânia,"Bosque dos Buritis, Setor Oeste",74080-040,-16.688556,-49.265066
+CUST-1159,Carla Ferreira,F,2002-11-02,2024-01-26,MG,Belo Horizonte,"Mercado da Lagoinha, Lagoinha",30560-220,-19.903624,-43.942494
+CUST-1160,Hugo Santos,F,1993-09-21,2024-10-30,SP,São Paulo,"Parque Estadual da Cantareira, Tremembé",02377-000,-23.391197,-46.640174
+CUST-1161,Diego Costa,M,1972-08-11,2024-07-03,SP,São Paulo,"Museu de Arte Sacra, Luz",01120-080,-23.54151,-46.639508
+CUST-1162,Ana Pereira,F,1975-05-06,2023-07-15,RS,Porto Alegre,"Memorial do Rio Grande do Sul, Centro Histórico",90010-152,-30.030837,-51.229841
+CUST-1163,Bruno Santos,M,1998-01-21,2023-04-28,RS,Porto Alegre,"Memorial do Rio Grande do Sul, Centro Histórico",90010-152,-30.030267,-51.23061
+CUST-1164,Diego Pereira,F,1993-08-06,2024-10-09,SC,Florianópolis,"Praia de Solidão, Pântano do Sul",88066-000,-27.714626,-48.495371
+CUST-1165,Diego Souza,M,1981-10-10,2024-09-18,MG,Belo Horizonte,"Centro Cultural UFMG, Pampulha",31270-010,-19.866358,-43.960624
+CUST-1166,Diego Souza,M,1981-11-05,2024-10-21,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30140-010,-19.935772,-43.939293
+CUST-1167,João Rodrigues,M,2000-12-16,2025-03-25,RJ,Rio de Janeiro,"Praça Floriano, Centro",20031-050,-22.909058,-43.175323
+CUST-1168,João Pereira,F,1990-09-22,2024-09-07,PR,Curitiba,"Parque Barigui, Santo Inácio",82200-010,-25.398032,-49.32851
+CUST-1169,Diego Rodrigues,M,1971-02-22,2023-05-07,RJ,Rio de Janeiro,"Praia Vermelha, Urca",22290-160,-22.951921,-43.166369
+CUST-1170,Ana Souza,F,1999-11-19,2023-01-29,RS,Porto Alegre,"Parque Germânia, Petrópolis",90630-010,-30.008905,-51.168197
+CUST-1171,Hugo Silva,M,1985-04-30,2025-03-24,SC,Florianópolis,"Parque da Luz, Centro",88020-040,-27.594515,-48.550062
+CUST-1172,Elena Santos,M,1985-03-05,2023-01-01,BA,Salvador,"Farol da Barra, Barra",40140-130,-13.009881,-38.532984
+CUST-1173,Fabio Ferreira,F,1993-08-14,2024-03-06,SP,São Paulo,"Pinacoteca do Estado, Luz",01120-010,-23.532484,-46.632688
+CUST-1174,Elena Silva,F,1982-03-28,2024-07-28,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.429244,-49.270144
+CUST-1175,Iara Santos,M,2006-06-11,2024-04-19,RJ,Rio de Janeiro,"Praia de São Conrado, São Conrado",22610-010,-22.999668,-43.262142
+CUST-1176,Ana Rodrigues,F,1964-05-11,2023-06-28,RS,Porto Alegre,"Museu de Ciências e Tecnologia PUCRS, Partenon",90619-900,-30.049972,-51.178571
+CUST-1177,Hugo Silva,M,2002-01-29,2023-06-10,SP,São Paulo,"Parque Ibirapuera, Vila Mariana",04094-050,-23.58634,-46.656059
+CUST-1178,Fabio Santos,F,1987-11-24,2025-08-24,SP,São Paulo,"Parque Estadual Fontes do Ipiranga, Ipiranga",04301-012,-23.653678,-46.624168
+CUST-1179,Diego Silva,F,1986-11-10,2024-12-01,GO,Goiânia,"Praça Cívica, Centro",74000-010,-16.680321,-49.260232
+CUST-1180,Ana Ferreira,M,1995-06-09,2024-03-10,MG,Belo Horizonte,"Basílica do Sagrado Coração, Coração de Jesus",30130-110,-19.931886,-43.941058
+CUST-1181,Hugo Oliveira,F,1978-04-04,2023-11-01,SC,Florianópolis,"Praia de Jurerê Internacional, Jurerê",88053-700,-27.422503,-48.49359
+CUST-1182,Hugo Oliveira,F,1994-07-19,2023-07-13,RS,Porto Alegre,"Rua Gonçalo de Carvalho, Independência",90035-170,-30.023465,-51.200214
+CUST-1183,Ana Santos,M,1957-03-06,2024-10-05,SP,São Paulo,"Jardim Botânico de São Paulo, Ipiranga",04301-012,-23.638897,-46.62365
+CUST-1184,Hugo Pereira,F,2005-03-25,2025-02-16,RJ,Rio de Janeiro,"Museu Nacional, São Cristóvão",20940-040,-22.907531,-43.222056
+CUST-1185,Carla Costa,M,1975-10-20,2023-02-24,PR,Curitiba,"Parque Bacacheri, Bacacheri",82510-500,-25.386449,-49.226754
+CUST-1186,Bruno Ferreira,M,2007-02-28,2025-01-28,MG,Belo Horizonte,"Mercado da Lagoinha, Lagoinha",30560-220,-19.904398,-43.942826
+CUST-1187,Hugo Ferreira,M,2000-11-15,2025-01-30,BA,Salvador,"Forte de Santa Maria, Barra",40140-100,-13.00938,-38.533084
+CUST-1188,Elena Oliveira,M,1980-04-24,2024-02-22,MG,Belo Horizonte,"Museu Mineiro, Centro",30140-100,-19.938115,-43.934604
+CUST-1189,Hugo Costa,M,1962-08-06,2023-07-01,SC,Florianópolis,"Praia de Solidão, Pântano do Sul",88066-000,-27.714823,-48.493394
+CUST-1190,Gisele Rodrigues,F,1998-04-21,2024-11-03,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40026-280,-12.972104,-38.50823
+CUST-1191,Elena Oliveira,F,1989-12-06,2023-10-12,PR,Curitiba,"Planetário de Curitiba, Boqueirão",81530-000,-25.486175,-49.249868
+CUST-1192,Bruno Santos,M,2003-12-28,2025-01-15,BA,Salvador,"Praça Castro Alves, Centro",40020-010,-12.980001,-38.518812
+CUST-1193,Bruno Oliveira,M,1996-12-20,2023-09-18,SC,Florianópolis,"Praia da Galheta, Lagoa da Conceição",88062-300,-27.590903,-48.430235
+CUST-1194,Fabio Rodrigues,M,1974-11-23,2025-07-28,MG,Belo Horizonte,"Centro Cultural UFMG, Pampulha",31270-010,-19.867686,-43.961996
+CUST-1195,Diego Santos,M,1984-10-23,2024-12-14,RS,Porto Alegre,"Parque Chico Mendes, Belém Novo",91791-440,-30.056484,-51.164029
+CUST-1196,Hugo Oliveira,M,1976-06-19,2025-05-31,MG,Belo Horizonte,"Bairro Santa Tereza, Santa Tereza",31010-390,-19.923915,-43.919659
+CUST-1197,Ana Costa,M,2006-05-15,2023-10-08,BA,Salvador,"Igreja de São Francisco, Centro Histórico",40020-050,-12.970117,-38.507418
+CUST-1198,Iara Costa,M,1963-01-14,2024-10-27,RJ,Rio de Janeiro,"Praia da Barra da Tijuca, Barra da Tijuca",22620-010,-23.004954,-43.366498
+CUST-1199,Bruno Ferreira,M,2002-08-15,2023-05-08,SC,Florianópolis,"Ribeirão da Ilha, Ribeirão da Ilha",88064-001,-27.767318,-48.54986
+CUST-1200,João Souza,M,1974-12-29,2024-11-07,SP,São Paulo,"Parque Buenos Aires, Higienópolis",01232-010,-23.539285,-46.667595
+CUST-1201,Fabio Santos,M,1966-02-09,2025-09-07,MG,Belo Horizonte,"Feira Hippie, Centro",30260-050,-19.941626,-43.928158
+CUST-1202,Iara Ferreira,M,1968-10-10,2023-09-25,SC,Florianópolis,"Praia Brava, Praia Brava",88056-500,-27.421712,-48.383321
+CUST-1203,Iara Pereira,F,1963-07-12,2024-09-25,RS,Porto Alegre,"Parque Farroupilha, Cidade Baixa",90035-140,-30.037518,-51.217375
+CUST-1204,Bruno Souza,M,2007-03-06,2024-11-23,PR,Curitiba,"Zoológico de Curitiba, Bairro Alto",82820-020,-25.528847,-49.312828
+CUST-1205,Carla Santos,F,1997-03-19,2023-01-11,GO,Goiânia,"Antiga Rodoviária de Goiânia, Setor Campinas",74535-240,-16.696731,-49.27998
+CUST-1206,Diego Silva,M,1968-06-03,2023-11-06,RJ,Rio de Janeiro,"Igreja da Candelária, Centro",20091-020,-22.901155,-43.177249
+CUST-1207,Gisele Ferreira,M,1986-11-04,2023-11-08,SP,São Paulo,"Parque Estadual da Cantareira, Tremembé",02377-000,-23.389433,-46.641229
+CUST-1208,João Souza,M,1989-05-29,2023-09-01,MG,Belo Horizonte,"Palácio das Artes, Centro",30140-100,-19.939072,-43.931421
+CUST-1209,Ana Costa,M,1965-06-30,2023-06-03,RJ,Rio de Janeiro,"Pedra Bonita, Barra da Tijuca",22631-050,-22.99237,-43.275759
+CUST-1210,Elena Silva,F,1991-09-04,2023-08-05,SC,Florianópolis,"Parque da Luz, Centro",88020-040,-27.595171,-48.550724
+CUST-1211,Hugo Santos,F,1973-09-06,2024-05-12,SC,Florianópolis,"Praça XV de Novembro, Centro",88020-280,-27.595961,-48.550154
+CUST-1212,Carla Costa,F,1996-04-09,2024-09-04,PR,Curitiba,"Passeio Público, Centro",80060-000,-25.422461,-49.271793
+CUST-1213,Ana Pereira,M,1959-03-22,2023-01-12,RS,Porto Alegre,"Praça da Matriz, Centro",90010-280,-30.028513,-51.226118
+CUST-1214,Hugo Oliveira,M,1987-10-23,2024-12-27,SC,Florianópolis,"Lagoa da Conceição, Costa da Lagoa",88062-300,-27.599598,-48.458927
+CUST-1215,Fabio Rodrigues,M,1983-10-16,2023-09-25,BA,Salvador,"Igreja do Nosso Senhor do Bonfim, Bonfim",40415-105,-12.923826,-38.517785
+CUST-1216,João Silva,M,1961-04-05,2025-02-16,GO,Goiânia,"Museu Antropológico UFG, Setor Universitário",74605-220,-16.693821,-49.261014
+CUST-1217,Gisele Silva,F,1987-10-18,2023-09-07,BA,Salvador,"Teatro Castro Alves, Campo Grande",40060-020,-12.990176,-38.525783
+CUST-1218,Elena Ferreira,F,1960-02-25,2024-05-12,MG,Belo Horizonte,"BDMG Cultural, Funcionários",30130-140,-19.939315,-43.935805
+CUST-1219,Gisele Pereira,F,1978-10-03,2023-09-30,RS,Porto Alegre,"Centro Municipal de Cultura, Santana",90035-000,-30.023072,-51.219873
+CUST-1220,Hugo Oliveira,M,1963-10-12,2023-05-11,SC,Florianópolis,"Praia da Joaquina, Lagoa da Conceição",88062-400,-27.645506,-48.453078
+CUST-1221,Hugo Santos,M,1964-12-09,2024-06-10,GO,Goiânia,"Museu de Arte de Goiânia, Setor Central",74000-050,-16.684892,-49.264964
+CUST-1222,Ana Souza,M,1983-06-17,2023-06-10,GO,Goiânia,"Centro de Convenções de Goiânia, Setor Marista",74815-330,-16.724203,-49.265915
+CUST-1223,João Souza,F,1973-07-29,2024-06-29,RS,Porto Alegre,"Jardim Botânico de Porto Alegre, Jardim Botânico",90690-000,-30.059203,-51.172255
+CUST-1224,Gisele Pereira,M,1976-10-10,2025-01-08,MG,Belo Horizonte,"Feira Hippie, Centro",30260-050,-19.940977,-43.927445
+CUST-1225,Gisele Costa,F,1959-03-07,2023-09-02,PR,Curitiba,"Parque Passaúna, Butiatuvinha",81900-000,-25.482484,-49.381133
+CUST-1226,Iara Rodrigues,M,1961-04-27,2025-07-14,SP,São Paulo,"MASP, Bela Vista",01310-100,-23.559357,-46.65438
+CUST-1227,Gisele Souza,M,1978-07-21,2023-01-03,SC,Florianópolis,"Morro da Cruz, Centro",88020-410,-27.582331,-48.540805
+CUST-1228,Hugo Costa,M,1990-03-24,2024-10-26,GO,Goiânia,"Praça Tamandaré, Setor Oeste",74040-010,-16.686363,-49.265405
+CUST-1229,Ana Pereira,Outro,1999-03-10,2025-06-07,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.727884,-49.278291
+CUST-1230,Diego Souza,M,1971-11-16,2025-09-23,MG,Belo Horizonte,"Praça da Liberdade, Funcionários",30140-010,-19.939024,-43.937002
+CUST-1231,Fabio Ferreira,M,1962-02-08,2023-01-11,RS,Porto Alegre,"Parque Moinhos de Vento, Moinhos de Vento",90430-000,-30.022336,-51.198489
+CUST-1232,Bruno Silva,M,2004-11-09,2024-08-06,PR,Curitiba,"Parque das Pedreiras, Pilarzinho",82200-610,-25.394152,-49.294353
+CUST-1233,Fabio Pereira,M,1962-02-22,2023-04-17,RJ,Rio de Janeiro,"Museu Nacional, São Cristóvão",20940-040,-22.903733,-43.225445
+CUST-1234,Iara Santos,F,2005-04-20,2024-05-31,SC,Florianópolis,"Praia do Campeche, Campeche",88063-000,-27.688402,-48.47764
+CUST-1235,Fabio Ferreira,F,1999-10-02,2023-01-20,RJ,Rio de Janeiro,"Jardim Botânico, Jardim Botânico",22460-030,-22.96521,-43.223604
+CUST-1236,Ana Pereira,F,1973-07-21,2025-04-29,RS,Porto Alegre,"Usina do Gasômetro, Centro Histórico",90010-170,-30.036223,-51.239503
+CUST-1237,Ana Rodrigues,M,1973-04-21,2023-04-30,SC,Florianópolis,"Cachoeira do Rio Tavares, Rio Tavares",88048-100,-27.65216,-48.484895
+CUST-1238,Iara Silva,M,1971-10-10,2023-09-24,SP,São Paulo,"Estádio Allianz Parque, Perdizes",05002-000,-23.52713,-46.700811
+CUST-1239,Hugo Oliveira,F,1979-08-30,2023-07-14,SP,São Paulo,"Estação da Luz, Luz",01120-000,-23.533232,-46.633489
+CUST-1240,Bruno Souza,F,1993-12-01,2024-06-20,SC,Florianópolis,"Praia do Pântano do Sul, Pântano do Sul",88066-000,-27.782568,-48.511004
+CUST-1241,Bruno Rodrigues,F,1970-02-22,2023-09-08,SC,Florianópolis,"Praia de Solidão, Pântano do Sul",88066-000,-27.713618,-48.494919
+CUST-1242,João Santos,F,1960-04-09,2025-08-22,SC,Florianópolis,"Fortaleza de São José da Ponta Grossa, Jurerê",88053-390,-27.492947,-48.369691
+CUST-1243,Ana Santos,M,1976-03-02,2023-12-15,MG,Belo Horizonte,"Igreja do Rosário dos Pretos, Centro",30110-030,-19.918729,-43.938126
+CUST-1244,João Oliveira,F,1974-12-06,2025-05-08,SC,Florianópolis,"Parque da Luz, Centro",88020-040,-27.594901,-48.549393
+CUST-1245,Ana Costa,M,1992-07-26,2023-04-02,SP,São Paulo,"Museu do Ipiranga, Ipiranga",04263-000,-23.587976,-46.61303
+CUST-1246,Iara Pereira,M,1983-07-16,2023-06-19,PR,Curitiba,"Museu Oscar Niemeyer, Centro Cívico",80060-090,-25.416826,-49.268489
+CUST-1247,Fabio Souza,F,1965-12-03,2025-04-05,SP,São Paulo,"Parque Ibirapuera, Vila Mariana",04094-050,-23.587073,-46.657819
+CUST-1248,Carla Ferreira,M,1998-08-02,2023-12-29,SC,Florianópolis,"Santo Antônio de Lisboa, Santo Antônio de Lisboa",88050-000,-27.529247,-48.543145
+CUST-1249,Gisele Ferreira,F,2006-06-15,2024-08-11,SC,Florianópolis,"Ponte Hercílio Luz, Centro",88020-200,-27.596485,-48.538513
+CUST-1250,Gisele Santos,F,1962-08-16,2023-04-23,SP,São Paulo,"Jardim Botânico de São Paulo, Ipiranga",04301-012,-23.637885,-46.624581
+CUST-1251,Ana Rodrigues,F,1984-01-13,2024-11-05,GO,Goiânia,"Estádio Serra Dourada, Jardim Goiás",74673-020,-16.708262,-49.295315
+CUST-1252,Fabio Oliveira,M,1998-05-21,2023-08-12,RJ,Rio de Janeiro,"Museu do Folclore Edison Carneiro, Catete",22221-040,-22.923594,-43.175932
+CUST-1253,Elena Pereira,M,1988-01-25,2024-04-28,RJ,Rio de Janeiro,"Praia de Prainha, Recreio dos Bandeirantes",23020-050,-23.036087,-43.499596
+CUST-1254,Diego Oliveira,F,1996-06-30,2023-01-22,RJ,Rio de Janeiro,"Cristo Redentor, Santa Teresa",22241-020,-22.95093,-43.209779
+CUST-1255,Hugo Oliveira,M,1994-07-02,2024-11-17,SC,Florianópolis,"Praia da Joaquina, Lagoa da Conceição",88062-400,-27.645228,-48.451278
+CUST-1256,Diego Oliveira,F,1997-01-02,2023-01-29,MG,Belo Horizonte,"Museu Histórico Abílio Barreto, Cidade Jardim",30380-070,-19.948958,-43.940239
+CUST-1257,Ana Costa,F,1976-11-17,2025-09-09,RJ,Rio de Janeiro,"Arcos da Lapa, Lapa",20241-070,-22.910013,-43.179745
+CUST-1258,Bruno Costa,F,2004-09-30,2024-02-01,SP,São Paulo,"Pinacoteca do Estado, Luz",01120-010,-23.536573,-46.633386
+CUST-1259,Gisele Ferreira,M,1979-10-31,2025-06-02,GO,Goiânia,"Teatro Goiânia, Centro",74000-040,-16.68343,-49.258744
+CUST-1260,Bruno Ferreira,M,1986-12-16,2024-12-07,SP,São Paulo,"Parque Villa-Lobos, Alto de Pinheiros",05459-000,-23.541694,-46.725983
+CUST-1261,Hugo Souza,M,1961-01-26,2025-08-12,PR,Curitiba,"Parque Bacacheri, Bacacheri",82510-500,-25.387758,-49.226813
+CUST-1262,Fabio Oliveira,F,2005-04-25,2024-07-23,PR,Curitiba,"Museu Paranaense, Centro",80020-080,-25.426178,-49.26948
+CUST-1263,Fabio Ferreira,M,1973-03-01,2025-03-03,GO,Goiânia,"Praça Universitária UFG, Setor Universitário",74605-010,-16.693846,-49.268356
+CUST-1264,Bruno Ferreira,F,1981-11-02,2023-03-01,RS,Porto Alegre,"Mosteiro São Bento, Centro Histórico",90020-120,-30.033269,-51.22724
+CUST-1265,Iara Silva,F,2000-10-21,2023-01-27,RS,Porto Alegre,"Memorial do Rio Grande do Sul, Centro Histórico",90010-152,-30.029518,-51.22821
+CUST-1266,Bruno Souza,F,1979-07-17,2024-06-19,PR,Curitiba,"Parque Passaúna, Butiatuvinha",81900-000,-25.483903,-49.380398
+CUST-1267,João Oliveira,F,1993-08-10,2025-01-03,RS,Porto Alegre,"Parque Marinha do Brasil, Praia de Belas",90110-010,-30.042807,-51.239011
+CUST-1268,Gisele Silva,M,1988-05-28,2024-06-04,RS,Porto Alegre,"Memorial do Rio Grande do Sul, Centro Histórico",90010-152,-30.031629,-51.22927
+CUST-1269,Iara Souza,F,2006-01-28,2024-08-06,MG,Belo Horizonte,"BDMG Cultural, Funcionários",30130-140,-19.935361,-43.935876
+CUST-1270,Ana Rodrigues,F,1978-02-28,2023-12-04,RS,Porto Alegre,"Parque Saint-Hilaire, Vila Assunção",91900-000,-30.063003,-51.15079
+CUST-1271,Fabio Rodrigues,M,1983-03-30,2023-04-12,SP,São Paulo,"Beco do Batman, Vila Madalena",05435-000,-23.558312,-46.693355
+CUST-1272,Hugo Oliveira,M,1984-12-02,2024-02-05,PR,Curitiba,"Setor Histórico, São Francisco",80410-000,-25.416256,-49.265985
+CUST-1273,Iara Costa,F,1992-03-06,2023-03-27,PR,Curitiba,"Parque Bacacheri, Bacacheri",82510-500,-25.388203,-49.226561
+CUST-1274,Diego Silva,M,1976-05-17,2025-05-14,RJ,Rio de Janeiro,"Praia da Barra da Tijuca, Barra da Tijuca",22620-010,-23.004591,-43.364987
+CUST-1275,Ana Silva,M,1978-10-29,2023-04-26,RJ,Rio de Janeiro,"Confeitaria Colombo, Centro",20051-000,-22.908297,-43.174954
+CUST-1276,Fabio Ferreira,F,1969-10-18,2024-11-16,RJ,Rio de Janeiro,"Praia Vermelha, Urca",22290-160,-22.952061,-43.166598
+CUST-1277,Bruno Ferreira,F,1964-03-18,2025-05-21,MG,Belo Horizonte,"Palácio das Artes, Centro",30140-100,-19.939117,-43.930983
+CUST-1278,Carla Oliveira,F,2002-10-27,2023-12-25,BA,Salvador,"Praia do Rio Vermelho, Rio Vermelho",41940-000,-13.006323,-38.501929
+CUST-1279,Iara Santos,M,2000-07-14,2025-05-09,RS,Porto Alegre,"Casarão Kramer, Centro Histórico",90010-050,-30.026927,-51.227741
+CUST-1280,Diego Costa,M,2001-10-16,2023-07-27,PR,Curitiba,"Parque das Pedreiras, Pilarzinho",82200-610,-25.394863,-49.296311
+CUST-1281,Fabio Santos,M,2005-09-02,2025-03-19,PR,Curitiba,"Parque Passaúna, Butiatuvinha",81900-000,-25.483415,-49.381545
+CUST-1282,João Costa,F,1996-10-14,2024-06-07,SC,Florianópolis,"Universidade Federal de Santa Catarina, Trindade",88040-900,-27.601534,-48.518935
+CUST-1283,Iara Pereira,M,1989-11-17,2025-01-19,PR,Curitiba,"Largo da Ordem, São Francisco",80410-120,-25.415413,-49.261294
+CUST-1284,Hugo Pereira,M,1976-03-13,2025-03-22,RJ,Rio de Janeiro,"Igreja da Candelária, Centro",20091-020,-22.902565,-43.175182
+CUST-1285,Fabio Santos,M,1971-01-29,2023-11-08,SP,São Paulo,"Centro Cultural São Paulo, Paraíso",01308-090,-23.572378,-46.635741
+CUST-1286,Carla Souza,F,1973-10-14,2025-08-07,BA,Salvador,"Forte de São Marcelo, Centro",40015-000,-12.976557,-38.517262
+CUST-1287,Ana Ferreira,F,1978-06-15,2023-06-08,RJ,Rio de Janeiro,"Lagoa Rodrigo de Freitas, Lagoa",22471-000,-22.974708,-43.209278
+CUST-1288,Hugo Souza,M,1980-01-15,2024-01-17,PR,Curitiba,"Praça Tiradentes, Centro",80020-030,-25.427085,-49.269875
+CUST-1289,Hugo Santos,M,1976-10-01,2024-02-24,RJ,Rio de Janeiro,"Parque das Ruínas, Santa Teresa",20241-085,-22.911715,-43.179373
+CUST-1290,Elena Santos,M,2006-02-06,2024-02-22,PR,Curitiba,"Parque Centenário da Imigração Italiana, Atuba",82620-000,-25.388078,-49.261174
+CUST-1291,Fabio Ferreira,F,1957-07-17,2023-09-03,SC,Florianópolis,"Lagoa da Conceição, Costa da Lagoa",88062-300,-27.598578,-48.462229
+CUST-1292,Carla Pereira,F,1987-06-01,2025-05-16,RJ,Rio de Janeiro,"Museu do Folclore Edison Carneiro, Catete",22221-040,-22.927009,-43.17489
+CUST-1293,Hugo Souza,M,1985-03-20,2025-07-28,RS,Porto Alegre,"Parque Moinhos de Vento, Moinhos de Vento",90430-000,-30.0226,-51.199553
+CUST-1294,Bruno Ferreira,F,1970-12-06,2023-11-14,RS,Porto Alegre,"Parque Germânia, Petrópolis",90630-010,-30.008338,-51.166477
+CUST-1295,Hugo Ferreira,F,2006-05-21,2025-04-17,SP,São Paulo,"Horto Florestal, Horto Florestal",02377-000,-23.470589,-46.624356
+CUST-1296,Iara Silva,F,1973-05-31,2023-09-18,BA,Salvador,"Parque do Abaeté, Itapoã",41635-185,-12.944276,-38.378558
+CUST-1297,Ana Rodrigues,M,1972-03-20,2025-07-07,BA,Salvador,"Praia do Buracão, Itaigara",41810-500,-13.02817,-38.473635
+CUST-1298,João Oliveira,F,1992-10-09,2025-02-16,PR,Curitiba,"Parque Barigui, Santo Inácio",82200-010,-25.396573,-49.327952
+CUST-1299,Iara Silva,F,2000-07-21,2025-08-29,SP,São Paulo,"Memorial da América Latina, Barra Funda",01153-000,-23.530104,-46.663108
+CUST-1300,Iara Rodrigues,F,1980-09-14,2023-04-17,SC,Florianópolis,"Santo Antônio de Lisboa, Santo Antônio de Lisboa",88050-000,-27.527315,-48.54387
+CUST-1301,Elena Souza,F,1959-09-21,2024-07-09,GO,Goiânia,"Parque Areião, Setor Pedro Ludovico",74130-010,-16.701753,-49.270545
+CUST-1302,Fabio Souza,M,1988-02-12,2024-10-03,SP,São Paulo,"Parque da Água Branca, Água Branca",01282-000,-23.517734,-46.670076
+CUST-1303,Elena Souza,F,2007-09-10,2023-02-04,RS,Porto Alegre,"Centro Municipal de Cultura, Santana",90035-000,-30.022986,-51.21985
+CUST-1304,Elena Pereira,F,1975-07-20,2023-07-25,PR,Curitiba,"Parque Tingui, São João",82300-060,-25.373122,-49.314584
+CUST-1305,João Souza,Outro,1984-05-06,2025-03-21,RS,Porto Alegre,"Parque Marinha do Brasil, Praia de Belas",90110-010,-30.042245,-51.237828
+CUST-1306,Bruno Silva,M,1969-06-07,2023-07-03,BA,Salvador,"Praia Porto da Barra, Barra",40140-000,-13.006883,-38.5303
+CUST-1307,Bruno Ferreira,M,1988-08-13,2024-01-19,RS,Porto Alegre,"Rua Gonçalo de Carvalho, Independência",90035-170,-30.022482,-51.200552
+CUST-1308,Diego Rodrigues,M,2000-02-02,2023-05-09,BA,Salvador,"Praia de Stella Maris, Stella Maris",41600-005,-12.925397,-38.383549
+CUST-1309,Hugo Pereira,F,2003-10-14,2023-06-24,RJ,Rio de Janeiro,"Parque Lage, Jardim Botânico",22461-000,-22.95923,-43.212748
+CUST-1310,Ana Ferreira,Outro,1965-09-25,2025-09-04,SP,São Paulo,"Pátio do Colégio, Centro",01016-040,-23.546969,-46.634778
+CUST-1311,João Rodrigues,M,1959-11-04,2025-09-13,GO,Goiânia,"Palácio das Esmeraldas, Centro",74000-010,-16.681444,-49.259117
+CUST-1312,Iara Costa,M,2007-08-13,2023-10-14,GO,Goiânia,"Palácio das Esmeraldas, Centro",74000-010,-16.681799,-49.257802
+CUST-1313,Elena Rodrigues,M,1982-06-07,2025-08-19,RJ,Rio de Janeiro,"Museu de Arte do Rio, Porto Maravilha",20081-240,-22.895958,-43.175893
+CUST-1314,Fabio Ferreira,Outro,1967-10-20,2024-11-18,SC,Florianópolis,"Praia de Solidão, Pântano do Sul",88066-000,-27.713719,-48.493145
+CUST-1315,Iara Pereira,M,1967-02-27,2024-09-01,SC,Florianópolis,"Praia dos Ingleses, Ingleses do Rio Vermelho",88058-001,-27.432982,-48.393926
+CUST-1316,Fabio Costa,M,1989-10-21,2024-02-01,SP,São Paulo,"Parque Villa-Lobos, Alto de Pinheiros",05459-000,-23.543253,-46.726723
+CUST-1317,Gisele Oliveira,M,2007-01-28,2025-04-01,BA,Salvador,"Igreja do Carmo, Centro Histórico",40026-160,-12.971724,-38.511198
+CUST-1318,Iara Pereira,F,1996-06-24,2023-05-23,SC,Florianópolis,"Praia Mole, São João do Rio Vermelho",88062-400,-27.608876,-48.442146
+CUST-1319,Carla Souza,M,1975-03-16,2025-01-05,SP,São Paulo,"Catedral da Sé, Sé",01001-000,-23.550428,-46.633445
+CUST-1320,Carla Souza,F,1997-01-19,2025-08-25,RS,Porto Alegre,"Armazéns do Porto, Centro Histórico",90010-030,-30.025205,-51.229921
+CUST-1321,João Santos,F,2005-10-14,2025-03-04,GO,Goiânia,"Parque Flamboyant, Setor Bueno",74275-000,-16.727802,-49.28172
+CUST-1322,Bruno Costa,M,1979-08-13,2024-10-26,PR,Curitiba,"Planetário de Curitiba, Boqueirão",81530-000,-25.484576,-49.251778
+CUST-1323,Elena Santos,M,1993-03-16,2025-01-09,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40026-280,-12.97128,-38.506602
+CUST-1324,Gisele Costa,M,1964-12-27,2024-02-11,MG,Belo Horizonte,"Parque das Mangabeiras, Serra",30315-970,-19.97182,-43.928535
+CUST-1325,Gisele Rodrigues,M,1993-04-04,2025-03-14,MG,Belo Horizonte,"Mercado da Lagoinha, Lagoinha",30560-220,-19.905132,-43.941299
+CUST-1326,Carla Ferreira,F,1995-04-10,2025-03-12,RS,Porto Alegre,"Santuário Nossa Senhora de Fátima, Rio Branco",90420-160,-30.048192,-51.199862
+CUST-1327,Diego Rodrigues,M,1962-12-22,2024-10-30,BA,Salvador,"Mercado Modelo, Comércio",40015-080,-12.973014,-38.513394
+CUST-1328,Carla Rodrigues,F,1972-08-10,2024-10-19,RJ,Rio de Janeiro,"Theatro Municipal, Centro",20031-010,-22.910719,-43.177126
+CUST-1329,Ana Pereira,F,1983-01-28,2024-04-03,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40026-280,-12.969515,-38.508211
+CUST-1330,João Ferreira,M,2001-03-02,2023-08-29,RJ,Rio de Janeiro,"Jardim Botânico, Jardim Botânico",22460-030,-22.966766,-43.222541
+CUST-1331,João Rodrigues,Outro,2004-04-19,2025-04-01,SP,São Paulo,"Rua Oscar Freire, Jardins",01426-001,-23.562533,-46.669166
+CUST-1332,Hugo Pereira,M,1995-09-14,2023-10-04,RS,Porto Alegre,"Centro Municipal de Cultura, Santana",90035-000,-30.022282,-51.219866
+CUST-1333,Iara Santos,F,1998-09-10,2024-09-28,RJ,Rio de Janeiro,"Igreja da Candelária, Centro",20091-020,-22.902442,-43.177587
+CUST-1334,Hugo Rodrigues,F,1982-01-31,2023-10-20,PR,Curitiba,"Planetário de Curitiba, Boqueirão",81530-000,-25.48404,-49.251218
+CUST-1335,Bruno Rodrigues,M,1969-06-28,2025-05-06,RJ,Rio de Janeiro,"Aterro do Flamengo, Flamengo",22210-030,-22.925367,-43.171964
+CUST-1336,Carla Souza,F,1958-11-11,2024-11-17,SP,São Paulo,"Expo Center Norte, Vila Guilherme",02055-000,-23.517205,-46.623499
+CUST-1337,Carla Souza,M,1987-08-15,2024-03-07,SC,Florianópolis,"Praia de Solidão, Pântano do Sul",88066-000,-27.712281,-48.49465
+CUST-1338,Carla Souza,F,1997-08-24,2025-08-26,RS,Porto Alegre,"Theatro São Pedro, Centro",90020-050,-30.028944,-51.227195
+CUST-1339,Iara Costa,F,1973-04-27,2024-08-19,RJ,Rio de Janeiro,"Praia da Barra da Tijuca, Barra da Tijuca",22620-010,-23.003066,-43.364982
+CUST-1340,Carla Santos,F,1969-05-20,2024-04-03,BA,Salvador,"Igreja do Nosso Senhor do Bonfim, Bonfim",40415-105,-12.926851,-38.517756
+CUST-1341,Hugo Souza,M,2004-06-03,2023-04-12,RJ,Rio de Janeiro,"Museu Nacional, São Cristóvão",20940-040,-22.908447,-43.22277
+CUST-1342,Gisele Pereira,F,1968-06-01,2023-12-19,PR,Curitiba,"Santa Felicidade, Santa Felicidade",82015-000,-25.371018,-49.338835
+CUST-1343,Carla Silva,F,2002-06-26,2025-02-19,SP,São Paulo,"Catedral da Sé, Sé",01001-000,-23.550324,-46.634555
+CUST-1344,Bruno Souza,M,1981-08-06,2023-05-29,GO,Goiânia,"Monumento das Três Raças, Centro",74000-050,-16.683746,-49.262247
+CUST-1345,Fabio Rodrigues,M,1964-11-20,2023-09-16,RS,Porto Alegre,"Museu de Arte do Rio Grande do Sul, Centro",90010-120,-30.029062,-51.227332
+CUST-1346,Fabio Santos,Outro,2006-09-27,2023-07-28,MG,Belo Horizonte,"Museu Mineiro, Centro",30140-100,-19.9384,-43.936205
+CUST-1347,Bruno Ferreira,F,2000-08-11,2025-03-22,RJ,Rio de Janeiro,"Aterro do Flamengo, Flamengo",22210-030,-22.924845,-43.170556
+CUST-1348,Diego Pereira,F,1977-03-17,2023-11-07,GO,Goiânia,"Bosque dos Buritis, Setor Oeste",74080-040,-16.689435,-49.263766
+CUST-1349,João Costa,F,1992-12-29,2024-10-18,GO,Goiânia,"Parque Botafogo, Setor Botafogo",74250-010,-16.696553,-49.253475
+CUST-1350,Hugo Souza,F,1978-05-22,2023-10-06,PR,Curitiba,"Parque Bacacheri, Bacacheri",82510-500,-25.386866,-49.227126
+CUST-1351,Carla Rodrigues,F,1988-01-17,2023-09-05,PR,Curitiba,"Parque Passaúna, Butiatuvinha",81900-000,-25.483057,-49.380772
+CUST-1352,Ana Silva,M,1988-05-25,2025-03-10,SP,São Paulo,"Arena Corinthians, Itaquera",08295-005,-23.546623,-46.473418
+CUST-1353,Elena Rodrigues,M,1956-06-07,2024-05-23,RS,Porto Alegre,"Orla do Guaíba, Ipanema",90820-000,-30.049549,-51.242759
+CUST-1354,Diego Silva,F,1963-11-13,2023-12-27,SC,Florianópolis,"Universidade Federal de Santa Catarina, Trindade",88040-900,-27.598933,-48.518779
+CUST-1355,Bruno Oliveira,F,2007-02-10,2025-04-14,PR,Curitiba,"Parque das Pedreiras, Pilarzinho",82200-610,-25.393916,-49.294504
+CUST-1356,Gisele Santos,M,2002-08-18,2023-12-08,PR,Curitiba,"Passeio Público, Centro",80060-000,-25.421537,-49.270811
+CUST-1357,Elena Souza,F,1961-11-30,2023-02-11,RS,Porto Alegre,"Parque Moinhos de Vento, Moinhos de Vento",90430-000,-30.024349,-51.197929
+CUST-1358,Bruno Pereira,F,1984-08-07,2024-04-06,RS,Porto Alegre,"Parque Marinha do Brasil, Praia de Belas",90110-010,-30.044773,-51.239674
+CUST-1359,Carla Rodrigues,F,1994-10-29,2024-02-03,SC,Florianópolis,"Praia do Moçambique, São João do Rio Vermelho",88058-001,-27.51913,-48.389303
+CUST-1360,Carla Santos,F,1973-06-23,2025-02-26,RJ,Rio de Janeiro,"Praia de Copacabana, Copacabana",22070-011,-22.971652,-43.182167
+CUST-1361,João Silva,M,1975-08-04,2023-04-05,RS,Porto Alegre,"Armazéns do Porto, Centro Histórico",90010-030,-30.027546,-51.230978
+CUST-1362,Ana Costa,M,1962-12-24,2024-10-14,SC,Florianópolis,"Ilha do Campeche, Campeche",88063-000,-27.697457,-48.469916
+CUST-1363,Bruno Rodrigues,F,2004-12-13,2023-03-20,PR,Curitiba,"Rua XV de Novembro, Centro",80020-310,-25.429506,-49.270525
+CUST-1364,Diego Santos,F,2002-08-01,2025-05-10,MG,Belo Horizonte,"Parque Jardim América, Jaraguá",31270-050,-19.875679,-43.952431
+CUST-1365,Bruno Souza,F,1978-01-09,2024-04-11,RJ,Rio de Janeiro,"Jardim Botânico, Jardim Botânico",22460-030,-22.967554,-43.223631
+CUST-1366,João Silva,F,1997-07-15,2023-09-10,BA,Salvador,"Mercado Modelo, Comércio",40015-080,-12.973305,-38.513861
+CUST-1367,Hugo Ferreira,Outro,1989-10-04,2023-05-29,SP,São Paulo,"Pinacoteca do Estado, Luz",01120-010,-23.533957,-46.63197
+CUST-1368,Carla Ferreira,M,1975-04-30,2025-02-10,BA,Salvador,"Parque da Cidade, Itaigara",41820-020,-12.998489,-38.488056
+CUST-1369,Hugo Silva,F,1956-06-12,2025-03-30,PR,Curitiba,"Parque Barigui, Santo Inácio",82200-010,-25.395696,-49.328567
+CUST-1370,Fabio Ferreira,M,1971-09-22,2024-12-03,RS,Porto Alegre,"Parque Farroupilha, Cidade Baixa",90035-140,-30.03746,-51.216294
+CUST-1371,Carla Ferreira,M,1986-12-29,2024-03-30,SC,Florianópolis,"Ponte Hercílio Luz, Centro",88020-200,-27.596238,-48.539274
+CUST-1372,Fabio Pereira,F,2006-11-06,2024-12-31,SC,Florianópolis,"Praia Brava, Praia Brava",88056-500,-27.42078,-48.382593
+CUST-1373,Fabio Costa,F,1998-03-01,2025-06-06,BA,Salvador,"Museu de Arte da Bahia, Vitória",40155-005,-12.992128,-38.523406
+CUST-1374,Elena Silva,F,1982-05-16,2024-05-07,SC,Florianópolis,"Fortaleza de São José da Ponta Grossa, Jurerê",88053-390,-27.49397,-48.369234
+CUST-1375,Elena Santos,F,1976-08-03,2024-04-09,MG,Belo Horizonte,"Igreja do Rosário dos Pretos, Centro",30110-030,-19.918033,-43.937457
+CUST-1376,Ana Souza,M,1987-03-10,2025-02-06,BA,Salvador,"Praia de Itapoã, Itapoã",41640-010,-12.936809,-38.367854
+CUST-1377,Elena Santos,F,1974-11-24,2024-09-15,PR,Curitiba,"Parque Tingui, São João",82300-060,-25.375683,-49.312682
+CUST-1378,Bruno Rodrigues,M,1979-12-03,2023-01-21,RJ,Rio de Janeiro,"Praia Vermelha, Urca",22290-160,-22.953321,-43.16571
+CUST-1379,Ana Silva,F,1999-09-02,2023-05-10,PR,Curitiba,"Planetário de Curitiba, Boqueirão",81530-000,-25.483751,-49.250323
+CUST-1380,Ana Santos,M,1968-04-14,2023-10-11,MG,Belo Horizonte,"Parque Municipal Américo R. Giannetti, Centro",30130-010,-19.927791,-43.933441
+CUST-1381,Gisele Santos,F,1986-06-26,2025-08-02,BA,Salvador,"Largo do Pelourinho, Centro Histórico",40026-280,-12.97003,-38.508223
+CUST-1382,Ana Souza,F,1963-11-10,2024-02-20,PR,Curitiba,"Zoológico de Curitiba, Bairro Alto",82820-020,-25.528746,-49.311406
+CUST-1383,Ana Ferreira,M,1995-06-24,2024-05-19,BA,Salvador,"Museu Carlos Costa Pinto, Vitória",40155-090,-13.00181,-38.522104
+CUST-1384,Ana Pereira,M,1973-08-16,2023-01-17,SC,Florianópolis,"Costa da Lagoa, Lagoa da Conceição",88062-480,-27.57871,-48.445635
+CUST-1385,Diego Pereira,F,1977-05-31,2024-10-12,PR,Curitiba,"Passeio Público, Centro",80060-000,-25.41888,-49.27274
+CUST-1386,Carla Ferreira,M,1957-05-03,2025-02-11,RS,Porto Alegre,"Orla do Guaíba, Ipanema",90820-000,-30.047834,-51.242166
+CUST-1387,Fabio Rodrigues,F,1998-12-02,2024-09-14,GO,Goiânia,"Praça Tamandaré, Setor Oeste",74040-010,-16.684922,-49.263648
+CUST-1388,Ana Ferreira,M,1968-02-22,2025-08-19,BA,Salvador,"Farol da Barra, Barra",40140-130,-13.01133,-38.532678
+CUST-1389,Bruno Oliveira,F,2004-10-21,2024-09-08,SP,São Paulo,"Museu de Arte Sacra, Luz",01120-080,-23.544243,-46.637823
+CUST-1390,Iara Santos,F,1958-04-28,2023-05-29,PR,Curitiba,"Parque Barigui, Santo Inácio",82200-010,-25.397523,-49.327969
+CUST-1391,Hugo Santos,M,1976-01-29,2025-06-30,GO,Goiânia,"Feira Hippie, Praça do Sol",74000-100,-16.683222,-49.258247
+CUST-1392,Bruno Oliveira,F,1991-07-12,2025-08-26,SP,São Paulo,"Estádio Allianz Parque, Perdizes",05002-000,-23.529147,-46.701467
+CUST-1393,Hugo Oliveira,M,1983-09-21,2025-02-28,PR,Curitiba,"Passeio Público, Centro",80060-000,-25.421141,-49.271648
+CUST-1394,Diego Pereira,M,1957-07-29,2023-04-23,GO,Goiânia,"Memorial do Cerrado PUC Goiás, Setor Universitário",74605-050,-16.693046,-49.256988
+CUST-1395,Elena Oliveira,M,1978-09-17,2023-02-08,SP,São Paulo,"Horto Florestal, Horto Florestal",02377-000,-23.470349,-46.625143
+CUST-1396,Iara Ferreira,F,1995-08-14,2024-09-29,GO,Goiânia,"Monumento das Três Raças, Centro",74000-050,-16.684516,-49.263546
+CUST-1397,Hugo Costa,M,1964-06-07,2023-07-22,GO,Goiânia,"Parque do Cerrado, Parque Amazônia",74840-000,-16.737657,-49.299543
+CUST-1398,Fabio Costa,Outro,1986-01-29,2025-03-07,SC,Florianópolis,"Praia de Jurerê Internacional, Jurerê",88053-700,-27.422273,-48.495681
+CUST-1399,Bruno Santos,F,1993-04-02,2024-07-15,BA,Salvador,"Praia Porto da Barra, Barra",40140-000,-13.008444,-38.528777
+CUST-1400,Carla Ferreira,M,1995-04-07,2024-11-13,SC,Florianópolis,"Barra da Lagoa, Barra da Lagoa",88061-400,-27.569462,-48.428041
+CUST-1401,Ana Rodrigues,M,1989-12-19,2024-02-17,RS,Porto Alegre,"Igreja das Dores, Centro",90020-020,-30.030276,-51.228399
+CUST-1402,Gisele Souza,M,1971-09-27,2023-05-16,RJ,Rio de Janeiro,"Parque Lage, Jardim Botânico",22461-000,-22.958174,-43.213764
+CUST-1403,João Rodrigues,M,1964-05-01,2024-05-29,SP,São Paulo,"Centro Cultural São Paulo, Paraíso",01308-090,-23.571891,-46.633935
+CUST-1404,Diego Rodrigues,F,1966-01-28,2024-05-05,SP,São Paulo,"Horto Florestal, Horto Florestal",02377-000,-23.471004,-46.624841
+CUST-1405,João Pereira,M,1969-06-11,2025-07-11,RJ,Rio de Janeiro,"Theatro Municipal, Centro",20031-010,-22.909852,-43.179324
+CUST-1406,Iara Rodrigues,M,1956-10-25,2023-08-22,RJ,Rio de Janeiro,"Parque Lage, Jardim Botânico",22461-000,-22.956576,-43.214394
+CUST-1407,João Costa,M,1994-12-27,2024-09-24,RJ,Rio de Janeiro,"Cristo Redentor, Santa Teresa",22241-020,-22.95096,-43.209654
+CUST-1408,Elena Silva,M,1992-05-12,2025-01-04,BA,Salvador,"Museu Afro-Brasileiro, Centro Histórico",40025-010,-12.972504,-38.511958
+CUST-1409,Fabio Rodrigues,M,2004-09-18,2024-01-16,PR,Curitiba,"Estação Ferroviária de Curitiba, Centro",80020-060,-25.429809,-49.270246
+CUST-1410,Diego Santos,M,1973-08-14,2025-03-15,RS,Porto Alegre,"Memorial do Rio Grande do Sul, Centro Histórico",90010-152,-30.032176,-51.228762
+CUST-1411,Elena Costa,M,1987-06-24,2023-02-07,RS,Porto Alegre,"Praça da Matriz, Centro",90010-280,-30.031585,-51.228107
+CUST-1412,Diego Souza,M,1988-04-13,2023-04-29,BA,Salvador,"Forte de São Marcelo, Centro",40015-000,-12.974402,-38.516859
+CUST-1413,Diego Pereira,M,1984-05-28,2023-12-02,RJ,Rio de Janeiro,"Museu Nacional, São Cristóvão",20940-040,-22.905448,-43.223367
+CUST-1414,Gisele Souza,M,1984-08-03,2024-10-31,RJ,Rio de Janeiro,"Museu do Folclore Edison Carneiro, Catete",22221-040,-22.923488,-43.175542
+CUST-1415,Carla Ferreira,F,1989-03-12,2023-11-15,RS,Porto Alegre,"Memorial do Rio Grande do Sul, Centro Histórico",90010-152,-30.031154,-51.228278
+CUST-1416,Carla Costa,M,1996-12-10,2023-11-10,RS,Porto Alegre,"Orla do Guaíba, Ipanema",90820-000,-30.04835,-51.242635
+CUST-1417,Elena Ferreira,M,1989-07-22,2025-01-09,RS,Porto Alegre,"Museu de Arte do Rio Grande do Sul, Centro",90010-120,-30.030149,-51.225523
+CUST-1418,Gisele Silva,F,1990-02-26,2024-09-19,SP,São Paulo,"Jardim Botânico de São Paulo, Ipiranga",04301-012,-23.639298,-46.622383
+CUST-1419,Iara Souza,F,1975-07-01,2023-09-17,PR,Curitiba,"Ópera de Arame, Santo Inácio",82200-600,-25.390014,-49.29426
+CUST-1420,Fabio Ferreira,M,1997-01-15,2023-05-17,RJ,Rio de Janeiro,"Praia da Barra da Tijuca, Barra da Tijuca",22620-010,-23.005051,-43.365784
+CUST-1421,Elena Silva,M,1998-11-20,2025-02-09,SC,Florianópolis,"Parque Municipal da Lagoa do Peri, Ribeirão da Ilha",88064-001,-27.750158,-48.512746
+CUST-1422,Ana Costa,M,1963-07-04,2025-04-28,MG,Belo Horizonte,"Praça Raul Soares, Centro",30150-150,-19.924532,-43.935329
+CUST-1423,Carla Pereira,F,1973-03-19,2025-07-10,MG,Belo Horizonte,"Museu de Ciências Naturais PUC Minas, Coração Eucarístico",30535-610,-19.909463,-43.994182
+CUST-1424,Elena Pereira,F,1988-11-23,2025-07-05,RJ,Rio de Janeiro,"Praia da Barra da Tijuca, Barra da Tijuca",22620-010,-23.002672,-43.364864
+CUST-1425,Elena Souza,F,2004-09-03,2025-01-12,BA,Salvador,"Praia da Pituba, Pituba",41810-000,-13.014294,-38.476797
+CUST-1426,Bruno Oliveira,F,1972-02-24,2025-03-19,RS,Porto Alegre,"Centro Municipal de Cultura, Santana",90035-000,-30.024228,-51.219436
+CUST-1427,Iara Ferreira,M,1983-12-08,2024-12-25,RS,Porto Alegre,"Usina do Gasômetro, Centro Histórico",90010-170,-30.037212,-51.240712
+CUST-1428,Hugo Souza,F,1986-06-06,2025-06-21,MG,Belo Horizonte,"Feira Hippie, Centro",30260-050,-19.940657,-43.929869
+CUST-1429,Gisele Souza,M,1998-02-07,2024-02-04,RS,Porto Alegre,"Igreja das Dores, Centro",90020-020,-30.029692,-51.229697
+CUST-1430,João Silva,M,1964-02-23,2025-03-23,PR,Curitiba,"Parque Passaúna, Butiatuvinha",81900-000,-25.485164,-49.382602
+CUST-1431,Hugo Oliveira,F,1965-12-27,2023-07-15,RJ,Rio de Janeiro,"Praia da Barra da Tijuca, Barra da Tijuca",22620-010,-23.004371,-43.36372
+CUST-1432,Ana Oliveira,F,1993-08-03,2025-01-29,MG,Belo Horizonte,"Bairro Santa Tereza, Santa Tereza",31010-390,-19.922876,-43.918053
+CUST-1433,Diego Rodrigues,M,2001-08-07,2024-05-06,GO,Goiânia,"Jardim Zoológico de Goiânia, Setor Pedro Ludovico",74645-540,-16.708383,-49.292073
+CUST-1434,Iara Pereira,Outro,1990-11-03,2023-05-11,BA,Salvador,"Igreja do Nosso Senhor do Bonfim, Bonfim",40415-105,-12.927833,-38.519373
+CUST-1435,João Pereira,M,1989-01-31,2025-05-02,GO,Goiânia,"Parque Mutirama, Setor Coimbra",74055-140,-16.692788,-49.267863
+CUST-1436,Iara Pereira,F,1958-09-24,2024-12-08,BA,Salvador,"Farol da Barra, Barra",40140-130,-13.008623,-38.53112
+CUST-1437,João Silva,M,1975-10-26,2024-10-25,SC,Florianópolis,"Praia de Jurerê Internacional, Jurerê",88053-700,-27.423151,-48.493917
+CUST-1438,Bruno Souza,M,1967-10-23,2023-06-26,SP,São Paulo,"Mercado Municipal, Santa Ifigênia",01308-000,-23.541276,-46.629491
+CUST-1439,Bruno Costa,F,1974-11-11,2025-04-21,SC,Florianópolis,"Parque Municipal da Lagoa do Peri, Ribeirão da Ilha",88064-001,-27.749494,-48.51394
+CUST-1440,Elena Santos,M,2006-02-11,2023-04-08,GO,Goiânia,"Memorial do Cerrado PUC Goiás, Setor Universitário",74605-050,-16.692628,-49.259549
+CUST-1441,Carla Pereira,M,1996-01-31,2025-07-24,RS,Porto Alegre,"Santuário Nossa Senhora de Fátima, Rio Branco",90420-160,-30.049586,-51.199024
+CUST-1442,João Oliveira,F,1959-12-18,2024-01-26,SC,Florianópolis,"Costa da Lagoa, Lagoa da Conceição",88062-480,-27.576526,-48.446687
+CUST-1443,Diego Santos,F,1962-06-18,2024-10-16,GO,Goiânia,"Parque Vaca Brava, Setor Marista",74215-010,-16.676383,-49.254362
+CUST-1444,Hugo Pereira,M,1956-10-19,2025-02-20,MG,Belo Horizonte,"Igreja São Francisco de Assis, Pampulha",31275-110,-19.854347,-43.977523
+CUST-1445,Iara Rodrigues,Outro,1982-11-08,2025-07-09,GO,Goiânia,"Feira Hippie, Praça do Sol",74000-100,-16.68315,-49.256104
+CUST-1446,Carla Rodrigues,F,1966-06-04,2025-02-12,BA,Salvador,"Praça Castro Alves, Centro",40020-010,-12.980995,-38.519046
+CUST-1447,Diego Ferreira,M,1958-07-06,2023-11-03,MG,Belo Horizonte,"Igreja do Rosário dos Pretos, Centro",30110-030,-19.919763,-43.938945
+CUST-1448,Hugo Souza,M,1984-03-21,2023-06-13,SC,Florianópolis,"Ponte Hercílio Luz, Centro",88020-200,-27.594099,-48.53795
+CUST-1449,Elena Rodrigues,M,1961-05-25,2023-04-14,RJ,Rio de Janeiro,"Arcos da Lapa, Lapa",20241-070,-22.910453,-43.178077
+CUST-1450,João Souza,M,1996-04-21,2025-04-27,MG,Belo Horizonte,"Estádio Mineirão, Pampulha",31270-901,-19.864993,-43.96963
+CUST-1451,Carla Oliveira,F,1968-06-10,2023-05-09,BA,Salvador,"Parque Metropolitano de Pituaçu, Pituaçu",41600-000,-12.98987,-38.450061
+CUST-1452,Hugo Pereira,M,1960-10-03,2024-09-04,PR,Curitiba,"Santa Felicidade, Santa Felicidade",82015-000,-25.371616,-49.339856
+CUST-1453,Fabio Costa,F,1976-08-30,2024-06-07,MG,Belo Horizonte,"Praça Raul Soares, Centro",30150-150,-19.923452,-43.935488
+CUST-1454,Gisele Rodrigues,Outro,1963-12-28,2024-10-31,SC,Florianópolis,"Praia de Ponta das Canas, Ponta das Canas",88056-300,-27.428451,-48.448378
+CUST-1455,Bruno Souza,Outro,1977-11-16,2023-09-04,GO,Goiânia,"Praça Cívica, Centro",74000-010,-16.680767,-49.260381
+CUST-1456,Elena Silva,F,2004-04-01,2025-07-04,RJ,Rio de Janeiro,"Jardim Botânico, Jardim Botânico",22460-030,-22.967409,-43.223895
+CUST-1457,João Costa,F,1973-07-10,2024-04-20,SC,Florianópolis,"Praia do Santinho, Ingleses do Rio Vermelho",88058-100,-27.407561,-48.379447
+CUST-1458,Iara Souza,M,2002-06-11,2024-07-25,PR,Curitiba,"Setor Histórico, São Francisco",80410-000,-25.416244,-49.262697
+CUST-1459,Iara Oliveira,M,1964-01-19,2024-04-01,SC,Florianópolis,"Praia da Armação, Armação do Pântano do Sul",88066-000,-27.735712,-48.50844
+CUST-1460,Hugo Santos,M,1996-03-29,2025-09-12,GO,Goiânia,"Estação Ferroviária de Goiânia, Setor Central",74055-240,-16.695833,-49.268695
+CUST-1461,Elena Souza,M,1975-08-05,2024-11-22,RJ,Rio de Janeiro,"Praia de São Conrado, São Conrado",22610-010,-22.998323,-43.262651
+CUST-1462,Iara Oliveira,F,1997-04-05,2023-06-25,GO,Goiânia,"Parque da Cidade, Parque Amazônia",74840-020,-16.726591,-49.317283
+CUST-1463,Fabio Silva,M,1997-01-24,2025-02-21,MG,Belo Horizonte,"Parque Municipal Américo R. Giannetti, Centro",30130-010,-19.929103,-43.932027
+CUST-1464,Carla Silva,F,1992-11-05,2024-04-27,GO,Goiânia,"Lago das Rosas, Setor Oeste",74250-040,-16.688437,-49.254292
+CUST-1465,Hugo Souza,M,2002-06-21,2024-10-21,PR,Curitiba,"Memorial de Curitiba, Centro",80020-160,-25.430002,-49.270521
+CUST-1466,Ana Rodrigues,F,2006-01-03,2024-03-17,SP,São Paulo,"Rua Oscar Freire, Jardins",01426-001,-23.561694,-46.668713
+CUST-1467,Fabio Ferreira,F,1973-03-08,2024-09-20,SC,Florianópolis,"Morro da Cruz, Centro",88020-410,-27.581061,-48.539485
+CUST-1468,Diego Costa,M,1991-12-03,2024-01-28,MG,Belo Horizonte,"Igreja do Rosário dos Pretos, Centro",30110-030,-19.918595,-43.938052
+CUST-1469,Bruno Oliveira,M,1981-10-14,2023-12-20,GO,Goiânia,"Parque Areião, Setor Pedro Ludovico",74130-010,-16.700262,-49.270508
+CUST-1470,Fabio Costa,M,2000-07-02,2024-06-30,MG,Belo Horizonte,"Palácio das Artes, Centro",30140-100,-19.938344,-43.930536
+CUST-1471,Diego Silva,F,1984-04-17,2023-06-03,RS,Porto Alegre,"Rua Gonçalo de Carvalho, Independência",90035-170,-30.022612,-51.200132
+CUST-1472,Gisele Costa,M,1989-09-23,2025-08-04,MG,Belo Horizonte,"Parque Municipal Américo R. Giannetti, Centro",30130-010,-19.928279,-43.931365
+CUST-1473,João Oliveira,M,1988-07-22,2023-11-23,RS,Porto Alegre,"Museu de Ciências e Tecnologia PUCRS, Partenon",90619-900,-30.04942,-51.176952
+CUST-1474,Iara Oliveira,M,1989-09-13,2025-07-22,SC,Florianópolis,"Cachoeira do Rio Tavares, Rio Tavares",88048-100,-27.651773,-48.486384
+CUST-1475,Diego Rodrigues,F,1999-02-23,2024-11-03,GO,Goiânia,"Praça do Sol, Setor Oeste",74040-070,-16.683862,-49.262114
+CUST-1476,Diego Silva,M,1973-02-15,2023-08-10,SP,São Paulo,"Teatro Municipal de São Paulo, Centro",01019-900,-23.546585,-46.638747
+CUST-1477,Diego Oliveira,M,2001-01-06,2025-05-22,SC,Florianópolis,"Parque da Luz, Centro",88020-040,-27.593336,-48.549054
+CUST-1478,Fabio Silva,Outro,1992-11-09,2025-05-30,GO,Goiânia,"Praça Cívica, Centro",74000-010,-16.679858,-49.25929
+CUST-1479,Carla Oliveira,Outro,1958-05-09,2024-10-22,SC,Florianópolis,"Praia do Campeche, Campeche",88063-000,-27.687797,-48.47678
+CUST-1480,Diego Pereira,M,1975-06-28,2024-03-20,SP,São Paulo,"Estádio Allianz Parque, Perdizes",05002-000,-23.527241,-46.699774
+CUST-1481,Diego Oliveira,M,1984-11-08,2023-01-08,SC,Florianópolis,"Mercado Público Central, Centro",88010-110,-27.597231,-48.549529
+CUST-1482,Gisele Ferreira,F,1996-07-19,2024-07-12,BA,Salvador,"Igreja do Nosso Senhor do Bonfim, Bonfim",40415-105,-12.924816,-38.518236
+CUST-1483,Iara Oliveira,M,1979-05-27,2024-06-16,MG,Belo Horizonte,"Museu de Arte da Pampulha, Pampulha",31365-000,-19.856545,-43.982221
+CUST-1484,Fabio Souza,M,1957-09-09,2025-04-02,BA,Salvador,"Parque do Abaeté, Itapoã",41635-185,-12.944253,-38.377108
+CUST-1485,Diego Costa,M,2005-01-30,2024-05-06,RJ,Rio de Janeiro,"Parque Nacional da Tijuca, Alto da Boa Vista",20531-590,-22.932917,-43.289982
+CUST-1486,Hugo Santos,F,1967-05-05,2024-08-06,BA,Salvador,"Praia de Stella Maris, Stella Maris",41600-005,-12.927254,-38.384981
+CUST-1487,Fabio Costa,M,1990-11-11,2025-02-18,RS,Porto Alegre,"Museu do Trabalho, Centro Histórico",90010-181,-30.031438,-51.226853
+CUST-1488,João Oliveira,F,1966-10-16,2024-09-12,SP,São Paulo,"Parque Estadual da Cantareira, Tremembé",02377-000,-23.389329,-46.642317
+CUST-1489,Carla Rodrigues,F,1960-05-26,2025-05-01,GO,Goiânia,"Praça Cívica, Centro",74000-010,-16.682329,-49.260137
+CUST-1490,Ana Pereira,M,1959-03-23,2025-05-30,RS,Porto Alegre,"Igreja das Dores, Centro",90020-020,-30.03059,-51.229259
+CUST-1491,Hugo Oliveira,M,1975-10-17,2025-03-17,SC,Florianópolis,"Praia Mole, São João do Rio Vermelho",88062-400,-27.607809,-48.441886
+CUST-1492,Elena Silva,F,1966-01-19,2025-04-01,RS,Porto Alegre,"Museu de Arte do Rio Grande do Sul, Centro",90010-120,-30.031769,-51.226949
+CUST-1493,Iara Silva,M,1959-12-09,2024-06-12,GO,Goiânia,"Teatro Goiânia, Centro",74000-040,-16.684881,-49.260996
+CUST-1494,Elena Oliveira,M,1967-12-09,2024-02-01,GO,Goiânia,"Parque Botafogo, Setor Botafogo",74250-010,-16.697193,-49.25276
+CUST-1495,Carla Oliveira,F,1962-12-04,2023-01-01,GO,Goiânia,"Jardim Zoológico de Goiânia, Setor Pedro Ludovico",74645-540,-16.709123,-49.29185
+CUST-1496,Carla Souza,M,1963-04-25,2024-03-20,GO,Goiânia,"Antiga Rodoviária de Goiânia, Setor Campinas",74535-240,-16.698079,-49.279136
+CUST-1497,Ana Pereira,M,1980-05-08,2024-03-28,GO,Goiânia,"Estádio Serra Dourada, Jardim Goiás",74673-020,-16.708353,-49.29265
+CUST-1498,Iara Oliveira,F,1978-06-13,2024-11-19,BA,Salvador,"Forte de Santa Maria, Barra",40140-100,-13.010302,-38.531863
+CUST-1499,Diego Santos,F,2004-07-30,2024-09-30,PR,Curitiba,"Museu Paranaense, Centro",80020-080,-25.425463,-49.269881
